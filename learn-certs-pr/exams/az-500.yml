@@ -18,7 +18,11 @@ subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-500
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 - ja

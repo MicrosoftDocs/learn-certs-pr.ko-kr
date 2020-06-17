@@ -16,7 +16,11 @@ summary: |-
 subTitle: '본 시험은 다음과 같은 기술적 작업을 수행할 수 있는 능력을 측정합니다: Microsoft ID 구현, Microsoft Graph를 통한 앱 빌드, SharePoint 확장 및 사용자 지정, Teams 확장, 및 Office 확장.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:

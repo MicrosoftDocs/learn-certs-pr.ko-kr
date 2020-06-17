@@ -17,7 +17,11 @@ summary: |-
 subTitle: '본 시험은 다음과 같은 기술 과제를 수행할 수 있는 능력을 측정합니다. 데이터 준비, 데이터 모델링, 데이터 시각화, 데이터 분석 및 결과물 배포 및 유지 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -32,6 +36,8 @@ roles:
 - data-analyst
 products:
 - power-bi
+courses:
+- uid: course.da-100t00
 relatedCertifications:
 - related:
     uid: certification.data-analyst-associate

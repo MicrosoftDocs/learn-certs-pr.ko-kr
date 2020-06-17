@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: 'Microsoft Azure AI Fundamentals (beta)'
+metadata:
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+uid: exam.ai-900
+displayName: AI-900
+summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>\r\n\r\n본 시험의 응시자는 머신 러닝(ML) 및 인공지능(AI) 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 갖추고 있어야 합니다.\r\n\r\n본 시험은 일반적인 ML 및 AI 워크로드에 대한 지식과 Azure에서 그를 구현하는 방법을 시연할 수 있는 기회입니다.  \r\n\r\n본 시험은 기술적 배경이 있거나 없는 모든 응시자를 대상으로 합니다. 데이터 과학 및 소프트웨어 엔지니어링 경험은 필요하지 않지만 일반적인 프로그래밍 지식이나 경험은 이점이 될 것입니다.  \r\n\r\nAzure AI Fundamentials는 Azure Data Scientist Associate 또는 Azure AI Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 어느 인증에도 필수 조건은 아닙니다.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">유용성과 중요성에 대해 자세히 알아보십시오</a>.</div>"
+subTitle: '다음을 설명할 수 있음을 증명합니다. AI 작업량 및 고려 사항 Azure에서 기계 학습의 기본 원칙; Azure의 컴퓨터 비전 워크로드 기능 Azure의 NLP (자연어 처리) 작업 기능 Azure의 대화 형 AI 워크로드 기능.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+locales:
+- en
+levels:
+- beginner
+skills:
+- AI 워크로드 및 고려사항 설명(15-20%)
+- Azure에서 머신 러닝의 기본 원리 설명(30-35%)
+- Azure에서 컴퓨터 비전 워크로드의 특징 설명(15-20%)
+- Azure에서 자연어 처리 (NLP) 워크로드의 기능 설명 (15-20%)
+- Azure에서 대화형 AI 워크로드의 특징 설명(15-20%)
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-fundamentals
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md
+

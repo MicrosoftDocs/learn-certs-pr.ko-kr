@@ -1,0 +1,89 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform App Maker (beta)'
+metadata:
+  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+uid: exam.pl-100
+displayName: PL-100
+summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>\r\n  \r\n앱 제작자는 자기 자신과 솔루션 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 응시자들은 데이터 모델링, 기본 UX 설계, 요구사항 분석, 프로세스 분석 등과 같은 주요 기술 비즈니스 분석 업무에 숙련되어 있어야 합니다.</br></br>\r\n\r\n앱 작성자는 비즈니스 프로세스를 생성 및 시행하고, 디지털 정보 수집을 구조화하고, 반복 가능한 작업의 효율성을 개선하고, 비즈니스 프로세스를 자동화합니다.\r\n\r\n앱 작성자는 Power Platform의 maker 도구를 사용하여 비즈니스 문제를 해결합니다. 그들은 애플리케이션, Excel 피벗 테이블, 팀 및 기타 도구에 Visual Basic를 사용해 본 경험이 있을 수 있습니다. 또한 데이터 모델, 사용자 인터페이스 및 프로세스를 기본적으로 이해해야 합니다. 앱 개발자는 사용 가능한 도구의 기능과 한계를 알고 있으며 이를 적용하는 방법을 이해하고 있습니다.\r\n\r\n앱 개발자는 자기 주도적이고 솔루션에 중점을 둡니다. 이들은 공식적인 IT 교육은 받지 못했을 수 있지만 개인적인 성장 사고방식으로 편리하게 기술을 사용하여 비즈니스 문제를 해결합니다. 이들은 운영상의 필요성을 이해하고 원하는 결과에 대한 비전을 가지고 있습니다. 이들은 단계적이고 반복적인 전략으로 문제에 접근합니다.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>참고&#58; 본 시험은 2020년 7월 경에 사용할 수 있습니다.</div>"
+subTitle: '본 시험은 2020년 7월 경에 사용할 수 있습니다. 본 시험은 솔루션 설계, 솔루션 작성, 데이터 분석, 솔루션 구현 및 관리 등 기술적인 작업을 수행할 수 있는 능력을 측정합니다.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
+providers:
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 솔루션 설계(10-15%)
+- 솔루션 작성(50-55%)
+- 데이터 분석(5-10%)
+- 솔루션 구현 및 관리(15-20%)
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- functional-consultant
+- maker
+- technology-manager
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-app-maker
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md
+

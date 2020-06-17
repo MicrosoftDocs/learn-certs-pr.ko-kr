@@ -5,11 +5,15 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>\r\n  \r\nAzure Administrator는 클라우드 환경에서 ID, 거버넌스, 저장소, 컴퓨팅 및 가상 네트워크를 구현, 관리 및 모니터링합니다. Azure 관리자는 리소스를 프로비저닝, 크기 조정, 모니터링하여 적절히 조정합니다.\r\n\r\n응시자는 Azure 관리 실무 경험이 최소 6개월은 있어야 합니다. 응시자는 핵심 Azure 서비스, Azure 워크로드, 보안 및 거버넌스를 잘 알고 있어야 합니다. 본 시험의 응시자는 PowerShell, 명령줄 인터페이스, Azure Portal 및 ARM 템플릿 사용 경험이 있어야 합니다.\r\n\r\n<div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">유용성과 중요성에 대해 자세히 알아보십시오</a>.</div>"
+summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>\r\r\n  \r\r\nAzure Administrator는 클라우드 환경에서 ID, 거버넌스, 저장소, 컴퓨팅 및 가상 네트워크를 구현, 관리 및 모니터링합니다. Azure 관리자는 리소스를 프로비저닝, 크기 조정, 모니터링하여 적절히 조정합니다.\r\r\n\r\r\n응시자는 Azure 관리 실무 경험이 최소 6개월은 있어야 합니다. 응시자는 핵심 Azure 서비스, Azure 워크로드, 보안 및 거버넌스를 잘 알고 있어야 합니다. 본 시험의 응시자는 PowerShell, 명령줄 인터페이스, Azure Portal 및 ARM 템플릿 사용 경험이 있어야 합니다.\r\r\n\r\r\n<div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">유용성과 중요성에 대해 자세히 알아보십시오</a>.</div>"
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. Azure ID 및 거버넌스 관리, 저장소 구현 및 관리, Azure 컴퓨팅 리소스 배포 및 관리, 가상 네트워크 구성 및 관리, Azure 리소스 모니터링 및 백업.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -25,19 +29,15 @@ roles:
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator

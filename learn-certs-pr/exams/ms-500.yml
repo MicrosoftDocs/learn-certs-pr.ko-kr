@@ -1,25 +1,27 @@
 ### YamlMime:Examination
 title: Microsoft 365 Security Administration
 metadata:
-  title: '시험 MS-500: Microsoft 365 Security Administration'
-  description: '시험 MS-500: Microsoft 365 Security Administration'
+  title: 'Exam MS-500: Microsoft 365 Security Administration'
+  description: 'Exam MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: >-
+summary: |-
   본 시험의 응시자는 Microsoft 365 및 하이브리드 환경에서 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링합니다. Microsoft 365 보안 관리자는 M365 엔터프라이즈 환경을 선제적으로 보호하고 위협에 대응하며 조사를 수행하고 데이터 거버넌스를 적용합니다. Microsoft 365 Security Administrator는 Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인합니다.
-
   <br/>
 
-
   본 시험의 응시자는 Microsoft 365 워크로드에 익숙하며 신원 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 뛰어난 기술과 경험을 갖추고 있어야 합니다. 응시자의 역할은 주로 Microsoft 365 환경에 초점을 맞추고 있으며, 하이브리드 환경을 포함합니다.
-subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 및 액세스 구현 및 관리, 위협 보호 구현 및 관리, 정보 보호 구현 및 관리. Microsoft 365의 거버넌스 및 규정 준수 기능 관리.
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 및 액세스 구현 및 관리, 위협 보호 구현 및 관리, 정보 보호 구현 및 관리. Microsoft 365의 거버넌스 및 규정 준수 기능 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-500&examname=시험%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
@@ -65,3 +67,4 @@ resources:
 - title: 시험 정책 및 자주 하는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

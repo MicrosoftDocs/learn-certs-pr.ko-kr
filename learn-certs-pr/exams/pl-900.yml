@@ -20,10 +20,12 @@ practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_me
 locales:
 - en
 providers:
-- providerType: pearson-vue
-  examUrl: 'https://examregistration.microsoft.com/?locale=ko-kr&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?locale=ko-kr&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 levels:
 - beginner
 skills:

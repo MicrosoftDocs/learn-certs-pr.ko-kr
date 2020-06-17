@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure (beta)
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
@@ -24,8 +24,10 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7
 locales:
 - en
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 levels:
 - intermediate
 skills:
@@ -66,15 +68,16 @@ products:
 - azure-stream-analytics
 - azure-traffic-manager
 - azure-virtual-machines
+courses:
+- uid: course.az-020t00
+- uid: course.az-204t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
-- uid: learn.work-with-relational-data-in-azure
 - uid: learn.store-data-in-azure
 - uid: learn.deploy-a-website-with-azure-virtual-machines
 - uid: learn.manage-resources-in-azure
 - uid: learn.deploy-a-website-with-azure-app-service
-- uid: learn.data-science
 - uid: learn.secure-your-cloud-data
 relatedCertifications:
 - related:
