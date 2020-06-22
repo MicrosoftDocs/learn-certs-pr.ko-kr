@@ -15,7 +15,7 @@ ms.author: micsullivan
 
 ## 중단된 코스웨어: 강사 지도식 교육
 
-* 2020년 6월 30일 중단되는 코스웨어
+* 2020년 6월 30일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -103,10 +103,10 @@ ms.author: micsullivan
     | 20346 | D | Managing Office 365 Identities and Services | 영어 | 2020년 06월 30일 |
     | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | 영어 | 2020년 06월 30일 |
     | 20409 | B | Server Virtualization with Windows Server Hyper-V® and System Center | 영어 | 2020년 06월 30일 |
-    | 20415 | B | Implementing a Desktop Infrastructure | 영어 | 2020년 06월 30일 |
+    | 20415 | B | Implementing a Desktop Infrastructure | 영어 | 2020년 06월 30일 | |
     | 20416 | B | Implementing Desktop Application Environments | 영어 | 2020년 06월 30일 |
     | 20489 | B | Developing Microsoft® SharePoint® 2013 Advanced Solutions | 영어 | 2020년 06월 30일 |
-    | 20687 | D | Configuring Windows® 8.1 | 영어 | 2020년 06월 30일 |
+    | 20687 | D | Configuring Windows® 8.1 | 영어 |2020년 06월 30일 |
     | 20688 | D | Supporting Windows® 8.1 | 영어 | 2020년 06월 30일 |
     | 20689 | D | Upgrading Your Skills to MCSA Windows® 8.1 | 영어 | 2020년 06월 30일 |
     | 21331 | B | Konfigurieren und Verwalten von Microsoft® SharePoint 15 | 독일 | 2020년 06월 30일 |
@@ -137,44 +137,61 @@ ms.author: micsullivan
     | 23697-1 | B | Installing and Configuring Windows 10 | 일본어 | 2020년 06월 30일 |
     | 23697-2 | B | Deploying and Managing Windows 10 Using Enterprise Services | 일본어 | 2020년 06월 30일 |
 
-* 2020년 02월 28일 중단된 코스웨어
+* 2020년 5월 29일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | 영어 | 2020년 02월 28일 |
-    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 영어 | 2020년 02월 28일 |
-    | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 영어 | 2020년 02월 28일 |
-    | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 영어 | 2020년 02월 28일 |
-    | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | 영어 | 2020년 02월 28일 |
-    | 6425 | C | Configuring and Troubleshooting Windows Server® 2008 Active Directory® Domain Services | 영어 | 2020년 02월 28일 |
-    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | 영어 | 2020년 02월 28일 |
-    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | 영어 | 2020년 02월 28일 |
-    | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | 영어 | 2020년 02월 28일 |
-    | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | 영어 | 2020년 02월 28일 |
-    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | 영어 | 2020년 02월 28일 |
-    | 10262 | A | Developing Windows® Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
-    | 10263 | A | Developing Windows® Communication Foundation Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
-    | 10264 | A | Developing Web Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
-    | 10265 | A | Developing Data Access Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
-    | 10324 | A | Implementing and Managing Microsoft® Desktop Virtualization | 영어 | 2020년 02월 28일 |
+    | AZ-400T01 | A | Implementing DevOps Development Processes | 영어 | 2020년 5월 29일 |
+    | AZ-400T02 | A | Implementing Continuous Integration | 영어 | 2020년 5월 29일 |
+    | AZ-400T03 | A | Implementing Continuous Delivery | 영어 | 2020년 5월 29일 |
+    | AZ-400T04 | A | Implementing Dependency Management | 영어 | 2020년 5월 29일 |
+    | AZ-400T05 | A | Implementing Application Infrastructure | 영어 | 2020년 5월 29일 |
+    | AZ-400T06 | A | Implementing Continuous Feedback | 영어 | 2020년 5월 29일 |
+    | AZ-400T07 | A | Designing a DevOps Strategy | 영어 | 2020년 5월 29일 |
+    | MS-500T01 | A | Managing Microsoft 365 Identity and Access | 영어 | 2020년 5월 29일 |
+    | MS-500T02 | A | Implementing Microsoft 365 Threat Protection | 영어 | 2020년 5월 29일 |
+    | MS-500T03 | A | Implementing Microsoft 365 Information Protection | 영어 | 2020년 5월 29일 |
+    | MS-500T04|| Administering Microsoft 365 Built-in Compliance| 영어| 2020년 5월 29일|
+    | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | 영어 | 2020년 5월 29일 |
+
+* 2020년 2월 28일 중단된 코스웨어
+
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
+    | --- | --- | --- | --- | --- |
+    | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | 영어 | 2020년 2월 28일 |
+    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 영어 | 2020년 2월 28일 |
+    | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 영어 | 2020년 2월 28일 |
+    | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 영어 | 2020년 2월 28일 |
+    | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | 영어 | 2020년 2월 28일 |
+    | 6425 | C | Configuring and Troubleshooting Windows Server® 2008 Active Directory® Domain Services | 영어 | 2020년 2월 28일 |
+    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | 영어 | 2020년 2월 28일 |
+    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | 영어 | 2020년 2월 28일 |
+    | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | 영어 | 2020년 2월 28일 |
+    | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | 영어 | 2020년 2월 28일 |
+    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | 영어 | 2020년 2월 28일 |
+    | 10262 | A | Developing Windows® Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
+    | 10263 | A | Developing Windows® Communication Foundation Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
+    | 10264 | A | Developing Web Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
+    | 10265 | A | Developing Data Access Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
+    | 10324 | A | Implementing and Managing Microsoft® Desktop Virtualization | 영어 | 2020년 2월 28일 |
     | 10550 | A | Programming in Visual Basic with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
     | 10748 | C | Planning and Deploying System Center 2012 Configuration Manager | 영어 | 2020년 02월 28일 |
-    | 10977 | B | Upgrading Your SQL Server Skills to Microsoft® SQL Server® 2014 | 영어 | 2020년 02월 28일 |
-    | 10981 | A | Infrastructure Provisioning with System Center Virtual Machine Manager | 영어 | 2020년 02월 28일 |
+    | 10977 | B | Upgrading Your SQL Server Skills to Microsoft® SQL Server® 2014 | 영어 | 2020년 2월 28일 |
+    | 10981 | A | Infrastructure Provisioning with System Center Virtual Machine Manager | 영어 | 2020년 2월 28일 |
     | 10991 | A | Troubleshooting Windows Server 2016 Core Technologies | 영어 | 2020년 02월 28일 |
     | 10993 | B | Integrating Cloud Services with System Center Configuration Manager | 영어 | 2020년 02월 28일 |
-    | 10999 | A | SQL Server on Linux | 영어 | 2020년 02월 28일 |
+    | 10999 | A | SQL Server on Linux | 영어 | 2020년 2월 28일 |
     | 13969 | B | Active Directory® Services with Windows Server | 일본어 | 2020년 02월 28일 |
     | 20331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | 영어 | 2020년 02월 28일 |
-    | 20332 | B | Advanced Solutions of Microsoft SharePoint Server 2013 | 영어 | 2020년 02월 28일 |
+    | 20332 | B | Advanced Solutions of Microsoft SharePoint Server 2013 | 영어 | 2020년 2월 28일 |
     | 20341 | B | Core Solutions of Microsoft® Exchange Server 2013 | 영어 | 2020년 02월 28일 |
     | 20342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | 영어 | 2020년 02월 28일 |
     | 20415 | B | Implementing a Desktop Infrastructure | 영어 | 2020년 02월 28일 | |
-    | 20416 | B | Implementing Desktop Application Environments | 영어 | 2020년 02월 28일 |
+    | 20416 | B | Implementing Desktop Application Environments | 영어 | 2020년 2월 28일 |
     | 20488 | B | Developing Microsoft SharePoint Server 2013 Core Solutions | 영어 | 2020년 02월 28일 |
     | 20687 | D | Configuring Windows® 8.1 | 영어 |2020년 02월 28일 |
-    | 20688 | D | Supporting Windows® 8.1 | 영어 | 2020년 02월 28일 |
-    | 23346 | C | Managing Office 365 Identities and Services | 일본어 | 2020년 02월 28일 |
+    | 20688 | D | Supporting Windows® 8.1 | 영어 | 2020년 2월 28일 |
+    | 23346 | C | Managing Office 365 Identities and Services | 일본어 | 2020년 2월 28일 |
     | 40409 | A | Deploying Voice Workloads for Skype for Business Online and Server 2015 | 영어 | 2020년 02월 28일 |
     | 40552 | A | Microsoft Security Workshop: Managing Identity | 영어 | 2020년 02월 28일 |
     | 40553 | A | Microsoft Security Workshop: Planning for a Secure Enterprise - Improving Detection | 영어 | 2020년 02월 28일 |
@@ -182,7 +199,7 @@ ms.author: micsullivan
     | 22697-1 | B | Installing and Configuring Windows 10 | 프랑스령 | 2020년 02월 28일 |
     | MB-900T01 | A | Dynamics 365 fundamentals | 프랑스령 | 2020년 02월 28일 |
 
-* 2020년 1월 31일 중단되는 코스웨어
+* 2020년 1월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -191,8 +208,8 @@ ms.author: micsullivan
     | MB-200T02 | A | Dynamics 365: Power Platform automation | 영어 | 2020년 01월 31일 |
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | 영어 | 2020년 01월 31일 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | 영어 | 2020년 01월 31일 |
-    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing  | 영어 | 2020년 01월 31일 |
-    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing     | 영어 | 2020년 01월 31일 |
+    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | 영어 | 2020년 01월 31일 |
+    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing   | 영어 | 2020년 01월 31일 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
     | MB-240T03 | A | Universal Resource Scheduling for Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
@@ -209,7 +226,7 @@ ms.author: micsullivan
     | MB-330T02 | A | Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations | 영어 | 2020년 01월 31일 |
     | MB-330T03 | A | Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations | 영어 | 2020년 01월 31일 |
 
-* 2019년 12월 31일 중단될 코스웨어
+* 2019년 12월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -332,7 +349,7 @@ ms.author: micsullivan
     | 10971 | B | Storage and High Availability with Windows Server | 영어 | 2019년 7월 31일 |
     | 10974 | B | Deploying and Migrating Windows Servers | 영어 | 2019년 7월 31일 |
 
-* 2019년 6월 30일 중단되는 코스웨어 
+* 2019년 6월 30일 중단된 코스웨어 
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -348,8 +365,8 @@ ms.author: micsullivan
     | 20774 | A | Perform Cloud Data Science with Azure Machine Learning | 영어 | 2019년 6월 30일
     | 20775 | A | Perform Data Engineering on Microsoft HD Insight | 영어 | 2019년 6월 30일
     | 20776 | A | Engineering Data with Microsoft Cloud Services | 영어 | 2019년 6월 30일
-    | 32410 | B | Installing and Configuring Windows Server 2012  | 터키어 | 2019년 06월 30일
-    | 32411 | B | Administering Windows Server 2012  | 터키어 | 2019년 06월 30일
+    | 32410 | B | Installing and Configuring Windows Server 2012 | 터키어 | 2019년 06월 30일
+    | 32411 | B | Administering Windows Server 2012 | 터키어 | 2019년 06월 30일
     | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | 영어 | 2019년 6월 30일
     | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | 영어 | 2019년 6월 30일
     | 40520 | G | Microsoft Cloud Workshop: Optimized Architecture | 영어 | 2019년 6월 30일
@@ -394,13 +411,13 @@ ms.author: micsullivan
     | 40457 | A | MOC Workshop: Azure Developer Hackathon | 영어 | 2019년 03월 31일 |
     | 40500 | A | DevOps Workshop | 영어 | 2019년 03월 31일 |
 
-* 2019년 1월 31일 중단되는 코스웨어
+* 2019년 1월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
     | AZ-300T05 | A | Implementing Authentication and Secure Data | 영어 | 2019년 01월 31일 |
 
-* 2018년 12월 31일 중단될 코스웨어
+* 2018년 12월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -502,14 +519,14 @@ ms.author: micsullivan
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | 독일 | 2018년 06월 30일 |
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | 프랑스령 | 2018년 06월 30일 |
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | 독일 | 2018년 06월 30일 |
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | 프랑스령 | 2018년 06월 30일 |
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | 프랑스령 | 2018년 06월 30일 |
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | 독일 | 2018년 06월 30일 |
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | 프랑스령 | 2018년 06월 30일 |
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | 포르투갈어 | 2018년 06월 30일 |
     | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | 영어 | 2018년 06월 30일 |
     | 2272 | C | Implementing and Supporting Microsoft® Windows® XP Professional | 영어 | 2018년 06월 30일 |
     | 2285 | B | Installing, Configuring & Administering Microsoft® Windows® XP Professional | 영어 | 2018년 06월 30일 |
-    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET  | 영어 | 2018년 06월 30일 |
+    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET | 영어 | 2018년 06월 30일 |
     | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft® Windows® XP | 프랑스령 | 2018년 06월 30일 |
     | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft® Windows® XP | 프랑스령 | 2018년 06월 30일 |
     | 2349 | B | Programming with the Microsoft® .NET Framework Microsoft Visual C#™ .NET) | 영어 | 2018년 06월 30일 |
@@ -533,11 +550,11 @@ ms.author: micsullivan
     | 2572 | A | Supporting Users Running the Microsoft® Windows® XP Operating System | 포르투갈어 | 2018년 06월 30일 |
     | 2573 | A | Supporting Users Running Applications on a Microsoft® Windows® XP Operating System | 포르투갈어 | 2018년 06월 30일 |
     | 2576 | A | Implementing And Administering Microsoft® Internet Information Services IIS) 6.0 | 영어 | 2018년 06월 30일 |
-    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment  | 러시아어 | 2018년 06월 30일 |
+    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment | 러시아어 | 2018년 06월 30일 |
     | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | 러시아어 | 2018년 06월 30일 |
     | 2667 | A | Introduction to Programming | 영어 | 2018년 06월 30일 |
     | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | 영어 | 2018년 06월 30일 |
-    | 2717 | C | Introduction to Microsoft® .NET Development  | 영어 | 2018년 06월 30일 |
+    | 2717 | C | Introduction to Microsoft® .NET Development | 영어 | 2018년 06월 30일 |
     | 2730 | A | Building Microsoft® Content Management Server 2002 Solutions | 영어 | 2018년 06월 30일 |
     | 2810 | A | Fundamentals of Network Security | 영어 | 2018년 06월 30일 |
     | 2821 | A | Designing and Managing a Microsoft® Windows® Public Key Infrastructure | 영어 | 2018년 06월 30일 |
@@ -549,16 +566,16 @@ ms.author: micsullivan
     | 2957 | B | Advanced Foundations of Microsoft® .NET 2.0 Development | 영어 | 2018년 06월 30일 |
     | 3938 | C | Updating Your Skills from Microsoft® Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | 영어 | 2018년 06월 30일 |
     | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft® Visual Studio® 2005 | 독일 | 2018년 06월 30일 |
-    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005  | 독일 | 2018년 06월 30일 |
+    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | 독일 | 2018년 06월 30일 |
     | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | 영어 | 2018년 06월 30일 |
     | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | 영어 | 2018년 06월 30일 |
     | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | 영어 | 2018년 06월 30일 |
-    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007  | 영어 | 2018년 06월 30일 |
+    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
     | 5050 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange | 영어 | 2018년 06월 30일 |
     | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
     | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
     | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
-    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition  | 영어 | 2018년 06월 30일 |
+    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition | 영어 | 2018년 06월 30일 |
     | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | 영어 | 2018년 06월 30일 |
     | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | 영어 | 2018년 06월 30일 |
     | 5105 | C | Deploying Windows Vista® Business Desktops | 영어 | 2018년 06월 30일 |
@@ -584,7 +601,7 @@ ms.author: micsullivan
     | 5945 | A | Implementing Microsoft® Office SharePoint® Server 2007 | 독일 | 2018년 06월 30일 |
     | 5947 | A | Deploying Microsoft® Windows Vista™ Business Desktops - German | 독일 | 2018년 06월 30일 |
     | 5949 | A | Installing and Configuring the Windows Vista Operating System | 독일 | 2018년 06월 30일 |
-    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System  | 독일 | 2018년 06월 30일 |
+    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System | 독일 | 2018년 06월 30일 |
     | 5951 | A | Configuring Windows Vista™ Applications and Tools - | 독일 | 2018년 06월 30일 |
     | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista™ | 프랑스령 | 2018년 06월 30일 |
     | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista | 독일 | 2018년 06월 30일 |
@@ -592,7 +609,7 @@ ms.author: micsullivan
     | 5957 | A | Unterstützung von Windows Vista und Windows Vista Anwendungen | 독일 | 2018년 06월 30일 |
     | 5970 | A | Installing and Configuring the Windows Vista Operating System - | 일본어 | 2018년 06월 30일 |
     | 5971 | A | Configuring Windows Vista Mobile Computing and Applications - | 일본어 | 2018년 06월 30일 |
-    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | 일본어 |  2018년 06월 30일 |
+    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | 일본어 | 2018년 06월 30일 |
     | 6066 | A | Developing Managed Applications for Microsoft Windows Mobile 6.0 | 영어 | 2018년 06월 30일 |
     | 6067 | A | Developing Native Applications for Microsoft Windows Mobile 6.0 | 영어 | 2018년 06월 30일 |
     | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 06월 30일
@@ -689,13 +706,13 @@ ms.author: micsullivan
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
 
-* 2018년 3월 30일 금요일 중단된 코스웨어
+* 2018년 3월 30일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
     | 20696 | C | Administering System Center Configuration Manager and Intune | 영어 | 2018년 03월 30일
 
-* 2018년 1월 31일 수요일 중단된 코스웨어
+* 2018년 1월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -704,7 +721,7 @@ ms.author: micsullivan
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | 영어 | 2018년 01월 31일
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | 영어 | 2018년 01월 31일
 
-* 2017년 6월 30일 금요일 중단된 코스웨어
+* 2017년 6월 30일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -742,13 +759,13 @@ ms.author: micsullivan
     | 80580 | A | Microsoft Dynamics AX 2012 の個別の製造の詳細 | 일본어 | 2017년 06월 30일
     | 80581 | A | Microsoft Dynamics AX 2012 の個別の製造の基本 | 일본어 | 2017년 06월 30일
 
-* 2017년 4월 15일 토요일 중단된 코스웨어
+* 2017년 4월 15일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | 영어 | 2017년 04월 15일
 
-* 2017년 3월 31일 금요일 중단된 코스웨어
+* 2017년 3월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -782,7 +799,7 @@ ms.author: micsullivan
     | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
     | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | 영어 | 2017년 03월 31일
 
-* 2016년 12월 31일 토요일 중단된 코스웨어
+* 2016년 12월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -857,11 +874,11 @@ ms.author: micsullivan
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | 영어 | 2016년 08월 01일
 
-* 2016년 6월 24일 금요일 중단된 코스웨어
+* 2016년 6월 24일 중단된 코스웨어
 
   [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
-* 2016년 6월 15일 수요일 중단된 코스웨어
+* 2016년 6월 15일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -873,7 +890,7 @@ ms.author: micsullivan
     | --- | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | 일본어 | 2016년 04월 18일
     | 37 | Office 2013 and Office 365 Demonstration Sessions | 스페인어 | 2016년 04월 18일
-    | 36 | Office 2013 and Office 365 Demonstration Sessions | 독일  | 2016년 04월 18일
+    | 36 | Office 2013 and Office 365 Demonstration Sessions | 독일 | 2016년 04월 18일
     | 35 | Office 2013 and Office 365 Demonstration Sessions | 러시아어 | 2016년 04월 18일
     | 34 | Office 2013 and Office 365 Demonstration Sessions | 포르투갈어(브라질) | 2016년 04월 18일
     | 33 | Office 2013 and Office 365 Demonstration Sessions | 중국어(간체) | 2016년 04월 18일
@@ -883,7 +900,7 @@ ms.author: micsullivan
     | 22 | Office 2010 Running Start: Demonstration Sessions | 네덜란드어 | 2016년 4월 18일
     | 21 | Office 2010 Running Start: Demonstration Sessions | 한국어 | 2016년 04월 18일
     | 20 | Office 2010 Running Start: Demonstration Sessions | 러시아어 | 2016년 04월 18일
-    | 19 | Office 2010 Running Start: Demonstration Sessions | 중국어(번체) | 2016년 04월 18일 
+    | 19 | Office 2010 Running Start: Demonstration Sessions | 중국어(번체) | 2016년 04월 18일
     | 18 | Office 2010 Running Start: Demonstration Sessions | 중국어(간체) | 2016년 04월 18일
     | 17 | Office 2010 Running Start: Demonstration Sessions | 포르투갈어(브라질) | 2016년 04월 18일
     | 16 | Office 2010 Running Start: Demonstration Sessions | Chinese (Simplified), 이탈리아어 | 2016년 04월 18일
@@ -893,7 +910,7 @@ ms.author: micsullivan
     | 12 | Office 2010 Running Start: Demonstration Sessions | 독일 | 2016년 04월 18일
     | 11 | Office 2010 Running Start: Demonstration Sessions | 영어 | 2016년 04월 18일
 
-* 2015년 12월 31일 목요일 중단된 코스웨어
+* 2015년 12월 31일 중단된 코스웨어
 
   [중단되는 강사지도식 과정 전체 목록 다운로드](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
@@ -911,14 +928,14 @@ ms.author: micsullivan
     | 10703 | A | Microsoft SharePoint 2010 の構成および管理 | 일본어 | 2015년 08월 31일
     | 10713 | A | Microsoft Visual Studio 2010 による Web アプリケーションの開発 | 일본어 | 2015년 08월 31일
     | 10775 | A | Administering Microsoft SQL Server 2012 Databases | 영어 | 2015년 08월 31일
-    | 50430 | B | Administering Team Foundation Server 2010 | 영어 | 2015년 08월 31일 |
+    | 50430 | B | Administering Team Foundation Server 2010 | 영어 | 2015년 8월 31일 |
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | 영어 | 2015년 08월 31일
 
 * 2015년 6월 30일 중단된 코스웨어
 
   [중단되는 강사지도식 학습 과정 전체 목록 다운로드](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
-* 2015년 1월 31일 토요일 중단된 코스웨어
+* 2015년 1월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -934,7 +951,7 @@ ms.author: micsullivan
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | 영어 | 2014년 10월 31일
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | 영어 | 2014년 10월 31일
 
-* 2014년 8월 25일  중단된 코스웨어
+* 2014년 8월 25일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -948,7 +965,7 @@ ms.author: micsullivan
     | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | 영어 | 2014년 08월 25일
     | 10953 | A | HTML5 Programming | 영어 | 2014년 08월 25일
 
-* 2013년 12월 31일 화요일 중단된 코스웨어
+* 2013년 12월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -985,7 +1002,7 @@ ms.author: micsullivan
     | 40005 | B | First Look Clinic: Windows Server 2012 | 영어 | 2013년 12월 31일
     | 40006 | B | Hands On Lab: Windows Server 2012 | 영어 | 2013년 12월 31일
 
-* 2013년 9월 30일 월요일  중단된 코스웨어
+* 2013년 9월 30일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
@@ -1007,27 +1024,27 @@ ms.author: micsullivan
 
 ## 중단된 코스웨어: 온라인 학습
 
-* 2017년 12월 29일 금요일 중단된 코스웨어
+* 2017년 12월 29일 중단된 코스웨어
 
   * [중단된 SA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [중단된 MSIA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* 2017년 8월 15일 화요일 중단된 코스웨어
+* 2017년 8월 15일 중단된 코스웨어
 
     | 과정 번호 | 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | 영어 | 8/15/2017 |
 
-* 2017년 6월 30일 금요일 중단된 코스웨어
+* 2017년 6월 30일 중단된 코스웨어
 
   * [중단된 SA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [중단된 MSIA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* 2015년 6월 30일 화요일 중단된 코스웨어
+* 2015년 6월 30일 중단된 코스웨어
 
   * [중단되는 e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
-* 2014년 3월 12일 수요일 중단된 코스웨어
+* 2014년 3월 12일 중단된 코스웨어
 
   * [중단되는 e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 

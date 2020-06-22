@@ -6,15 +6,16 @@ metadata:
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
   Azure 데이터 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다.
 subTitle: Azure 데이터 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다.
 levels:
 - intermediate
 skills:
-- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
-- Azure Machine Learning 작업 영역 설정 
-- 실험 실행 및 모델 훈련 
-- 모델 최적화 및 관리 
+- Azure Machine Learning 작업 영역 설정
+- 실험 실행 및 모델 훈련
+- 모델 최적화 및 관리
 - 모델 배포 및 사용
 roles:
 - data-scientist
@@ -30,14 +31,17 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.dp-100
 resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
@@ -45,3 +49,4 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

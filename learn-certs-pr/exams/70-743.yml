@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Upgrading Your Skills to MCSA: Windows Server 2016'
+metadata:
+  title: 'Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016'
+  description: 'Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016'
+uid: exam.70-743
+displayName: 70-743
+summary: |-
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>본 시험은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 해당 시험을 치를 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  본 시험은 Windows Server 2016 핵심 인프라 서비스를 구현하는 IT 전문가를 대상으로 실시됩니다.
+
+  응시자는; Windows Server 2008 또는; Windows Server 2012 R2 인증을 획득한 상태여야 합니다. 본 시험은 Windows Server 2016에서 사용할 수 있는 설치, 저장소, 컴퓨팅, 네트워킹 및 ID 기능에 대한 핵심 요소를 다룹니다.
+
+  <div style='font-weight&#58; bold;'><br/>참고&#58; 2018년 11월 2일 금요일부터 시험 업데이트의 효력이 발생합니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 Exam 743 변경 문서를 다운로드하여 검토하십시오.</div>
+subTitle: 본 시험은 Windows Server 2016 핵심 인프라 서비스를 구현하는 IT 전문가를 대상으로 실시됩니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IoQP
+practiceTestUrl: https://www.mindhub.com/70-743-Upgrade-Your-Skills-to-Windows-Server-2016-p/mu-70-743_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-743&examname=Upgrading%20Your%20Skills%20to%20MCSA:%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-743
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 호스트 및 컴퓨팅 환경에 Windows Server 설치
+- Storage Solutions 구현
+- Hyper-V 구현
+- Windows 컨테이너 구현
+- 고가용성 구현
+- DNS(Domain Name System) 구현
+- 네트워크 연결 및 원격 액세스 솔루션 구현
+- 고급 네트워크 인프라 구현
+- AD DS (Active Directory 도메인 서비스) 설치 및 구성
+- ID 페더레이션 및 액세스 솔루션 구현
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20743
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

@@ -5,26 +5,29 @@ metadata:
   description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 1월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  </div>
+
   이 시험은 기업용 라이센스 제품의 기능에 액세스할 수 있는 기능 컨설턴트를 대상 응시자로 합니다. 기능 컨설턴트로서, 응시자는 기본 번들 제품에서는 기능하지 않는 번들 버전의 기능을 잘 파악하고 있어야 합니다.
-
-  <br/>
-
 
   응시자는 주로 클라이언트 니즈를 충족하는 시스템을 구성하고, 신규 기능 구현과 관련된 설계 작업을 수행하며, 시스템 변경 사항을 구현 및 테스트해야 합니다.
 
-
   응시자는 작동되는 솔루션 디자인을 계획하고, 애플리케이션 라이프사이클 관리(ALM) 프로세스를 구현하고, 레거시 및 외부 시스템에서 데이터 및 개체를 마이그레이션하며, Power Platform과 다른 시스템을 통합하고 Power Platform 환경 관리를 계획할 수 있어야 합니다.
-subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 발견, 계획 및 분석 수행, 사용자 경험 설계 관리, 엔티티와 데이터 관리, 보안 구현, 통합 구현, 솔루션 전개 및 테스트 수행.
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 발견, 계획 및 분석 수행, 사용자 경험 설계 관리, 엔티티와 데이터 관리, 보안 구현, 통합 구현, 솔루션 전개 및 테스트 수행.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-200&examname=시험%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
+- 본 시험 내용은 2020년 5년 1월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
 - 검색, 계획, 및 분석 수행 (5-10%)
 - 사용자 경험 디자인 관리 (20-25%)
 - 엔티티 및 데이터 관리(15-20%)
@@ -33,22 +36,19 @@ skills:
 - 솔루션 배포 및 테스트 수행 (25-30%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
 products:
 - dynamics
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -64,20 +64,24 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

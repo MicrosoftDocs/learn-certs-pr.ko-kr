@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Microsoft OneNote 2013
+metadata:
+  title: 'Exam 77-421: Microsoft OneNote 2013'
+  description: 'Exam 77-421: Microsoft OneNote 2013'
+uid: exam.77-421
+displayName: 77-421
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  Microsoft OneNote 2013 시험의 응시자는 OneNote 환경에 대한 철저한 이해는 물론 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 응시자는 OneNote 2013의 주요 기능의 정확한 적용 방법을 알고 그것을 증명할 수 있어야 합니다.
+
+  응시자는 다양한 목적과 상황에 맞게 노트북을 작성하고 편집, 공유할 수 있어야 합니다. 응시자는 OneNote를 디지털 노트북으로 사용하여 작업을 촉진하고 다른 Office 2013 애플리케이션과 통합합니다. 응시자는 OneNote 2013의 기능을 사용하여 효율적으로 구성하고 협업합니다. 노트북 예시에는 수업 노트, 회의록, 이벤트 계획 및 할 일 목록이 포함됩니다. 응시자의 직업에는 학생, 강사, 행정 보조원, 회사 팀원, 프로젝트 관리자 등이 포함될 수 있습니다.
+subTitle: Microsoft OneNote 2013 시험의 응시자는 OneNote 환경에 대한 철저한 이해는 물론 스스로 작업을 완료할 수 있는 능력을 갖추고 있어야 합니다. 응시자는 OneNote 2013의 주요 기능의 정확한 적용 방법을 알고 그것을 증명할 수 있어야 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkE
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-421&examname=Microsoft%20OneNote%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-421
+locales:
+- en
+- nb
+levels:
+- beginner
+skills:
+- OneNote 환경 관리(25-30%)
+- 다른 사용자와 공유 및 공동 작업 (15-20%)
+- 메모 정리 및 찾기(20-25%)
+- OneNote에서 컨텐츠 편집 및 연결 (25-30%)
+roles:
+- business-user
+products:
+- office-onenote
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

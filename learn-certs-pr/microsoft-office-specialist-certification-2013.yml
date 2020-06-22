@@ -5,11 +5,11 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Office 2013'
 uid: certification.microsoft-office-specialist-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
-  
+summary: |- 
+  <div><div style='color&#58; red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
   이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다. Office 2013은 cloud 및 웹 기술을 결합하여 정보를 만들고 소비하는 방식을 확장하고 친숙한 Office 인터페이스에서 발견할 수 있는 안전하고 유연한 앱을 구축할 수 있는 새로운 cloud 앱 모델을 도입합니다.
-  
+
   Microsoft Office Specialist on Microsoft Office 2013 인증을 얻으려면, 7개 시험 모두를 통과하여 해당 특정 프로그램에서 인증을 받으십시오&#58;
   - [Exam 77-418&#58; Microsoft Office Word 2013](/learn/certifications/exams/77-418)
   - [Exam 77-420&#58; Microsoft Office Excel 2013](/learn/certifications/exams/77-420)
@@ -17,7 +17,7 @@ summary: |-
   - [Exam 77-423&#58; Microsoft Office Outlook 2013](/learn/certifications/exams/77-423)
   - [Exam 77-424&#58; Microsoft Office Access 2013](/learn/certifications/exams/77-424)
   - [Exam 77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419)
-  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421) 
+  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421)
 subTitle: 이 인증서는 특정 Office 프로그램에 대한 Microsoft Office Specialist (MOS) 인증과 Office를 최대한 활용하는 데 필요한 기술을 보유하고 있음을 입증합니다. Office 2013은 cloud 및 웹 기술을 결합하여 정보를 만들고 소비하는 방식을 확장하고 친숙한 Office 인터페이스에서 발견할 수 있는 안전하고 유연한 앱을 구축할 수 있는 새로운 cloud 앱 모델을 도입합니다.
 levels:
 - beginner
@@ -39,8 +39,8 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.

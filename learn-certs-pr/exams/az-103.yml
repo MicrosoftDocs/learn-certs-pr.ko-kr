@@ -7,8 +7,8 @@ uid: exam.az-103
 displayName: AZ-103
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험의 새로운 버전인 <a href="/learn/certifications/exams/az-104">AZ-104</a>는 2020년 4월 2일 일일부터 이용 본 시험은 2020년 8월 31일 중단 전까지 응시할 수 있습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다.<br/><br/></div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험의 새로운 버전인 <a href="/learn/certifications/exams/az-104">AZ-104</a>는 2020년 4월 2일 일일부터 이용 본 시험은 2020년 8월 31일 월요일 중단 전까지 응시할 수 있습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다.<br/><br/></div>
   </div>
 
   2019년 5월 1일부터, 해당 인증을 취득하려면 시험 AZ-103에만 합격하면 됩니다. 이 신규 시험은 시험 AZ-100 및 AZ-101(2019년 5월 1일 중단)의 범위에 해당하는 기술을 다루며, 그중 신규 시험 내용의 대부분은 시험 AZ-100을 기반으로 합니다.
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 새로운 버전인 AZ-104는 2020년 4월 2일 일일부터 이용. 본 시험은 2020년 8월 31일 중단 전까지 응시할 수 있습니다. 변경 사항에 대한 자세한 정보를 보려면 아래의 실력 측정 문서를 다운로드하십시오.
+- 본 시험의 새로운 버전인 AZ-104는 2020년 4월 2일 일일부터 이용. 본 시험은 2020년 8월 31일 월요일 중단 전까지 응시할 수 있습니다. 변경 사항에 대한 자세한 정보를 보려면 아래의 실력 측정 문서를 다운로드하십시오.
 - '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - Azure 구독 및 리소스 관리 (15-20%)
 - 저장소 구현 및 관리 (15-20%)
@@ -49,6 +49,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
@@ -72,17 +73,17 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

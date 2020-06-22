@@ -7,8 +7,8 @@ uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
-  <div><strong>본 인증은 2021년 1월 31일에 중단됩니다. 해당일 이후부터는 본 인증을 더 이상 취득할 수 없습니다. 중단 일자 전에 취득한 모든 자격증은 에 있는 성적표에 계속 표시됩니다. <a href='https://www.microsoft.com/learning/dashboard.aspx'>인증 대시보드</a>. 만료된 모든 인증서도 <a href='/learn/certifications/retired-certifications'>찾아볼 수 있습니다</a>.</strong><br/><br/></div>
+  <div><div style='color&#58; red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 본 인증을 더 이상 취득할 수 없습니다. 다가오는 시험 <a href='/learn/certifications/retired-certifications'>종료에 대해 자세히 알아보십시오</a>.</strong><br/><br/></div>
   </div>
 
   인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
@@ -26,7 +26,7 @@ subTitle: 인증을 획득하셔서 회사를 클라우드로 이동하고 사�
 levels:
 - advanced
 skills:
-- 없음
+- none
 roles:
 - administrator
 type: role-based
@@ -50,11 +50,11 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.

@@ -6,22 +6,31 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 28월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  </div>
 
-  Azure IoT 개발자는 IoT 솔루션의 클라우드 및 Edge 부분을 생성 및 유지 관리하는 데 필요한 구현과 코딩을 담당합니다. 클라우드 서비스를 사용한 장치 구성 및 유지 관리와 더불어 IoT 개발자는 물리적 디바이스를 설치합니다. IoT 개발자는 수명 주기 동안 장치 유지 관리를 담당합니다.
+  본 시험의 응시자는 Azure IoT 솔루션의 클라우드 및 에지 구성요소를 개발하는 실무 전문 지식을 갖추어야 합니다.
 
-  IoT 개발자는 장치 토폴로지, 연결, 디버깅 및 보안 등 IoT 솔루션을 설계 및 구현합니다. IoT 개발자는 컴퓨팅/컨테이너를 배포하고 장치 네트워킹을 구성합니다. IoT 개발자는 IoT와 관련된 모니터링 및 데이터 변환 등 데이터 Pipelines 관리를 위한 솔루션을 설계 및 구현합니다. IoT 개발자는 데이터 엔지니어 및 다른 이해 관계자와 협업하여 성공적인 비즈니스 통합을 보장합니다.
+  Azure IoT Developer는 클라우드 서비스 및 기타 도구을 사용하여 설정, 구성 및 유지 보수와 같은 디바이스 수명 주기를 관리하는 업무를 담당합니다. 디바이스 토폴로지, 연결, 디버깅, 보안 등의 Azure IoT 솔루션과 IoT 관련 데이터 파이프라인을 관리, 모니터 및 변환하는 솔루션을 구현합니다. 또한 Azure IoT Edge 구성 요소를 배포하고 Edge에 디바이스 네트워킹을 구성합니다.
 
-  IoT 개발자는 데이터 저장소 옵션, 데이터 분석, 데이터 처리 및 서비스로서의 플랫폼(PaaS) 등 IoT 솔루션을 구성하는 Azure 서비스 구현 방법을 잘 알고 있어야 합니다. IoT 개발자는 IoT 솔루션의 코드 부분에서 Azure IoT 서비스 구성 설정을 알고 C#, Node, C 또는 Python 등 최소한 하나의 Azure 지원 언어로 특정 IoT 작업을 수행할 수 있어야 합니다.
+  IoT 개발자는 데이터 엔지니어 및 다른 이해 관계자와 협업하여 성공적인 비즈니스 통합을 보장합니다.
+
+  본 시험의 응시자는 데이터 스토리지 옵션, 데이터 분석, 데이터 처리 및 서비스로서의 플랫폼(Platform-as-a-Service) 옵션을 포함하여 IoT 솔루션을 구성하는 Azure 서비스를 구현한 경험이 있어야 합니다. 또한 본 역할은 IoT 솔루션의 코드 부분 내에서 Azure IoT 서비스 구성 설정을 인식하고 C#, Node, C 또는 Python을 비롯한 하나 이상의 Azure 지원 언어로 특정 IoT 코딩 작업을 수행할 수 있어야 합니다.
 subTitle: '본 시험은 다음과 같은 IoT 솔루션 인프라 구현 능력을 측정합니다. 장치 프로비저닝 및 관리, Azure IoT Edge 장치에 솔루션 구현, 데이터 처리 및 관리, IoT 솔루션 모니터링, 문제 해결 및 최적화, 보안 구현.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 skills:
+- 본 시험 내용은 2020년 5년 28월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
 - IoT 솔루션 인프라 구현 (15-20%)
 - 장치 프로비저닝 및 관리 (20-25%)
 - Edge 구현 (15-20%)
@@ -45,23 +54,26 @@ relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
+- title: 인증으로의 여정
+  description: Azure IoT Developer Specialty 인증을 받기 위한 단계와 그를 준비하는 데 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

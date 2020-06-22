@@ -1,60 +1,64 @@
 ### YamlMime:Examination
 title: Microsoft 365 Mobility and Security
 metadata:
-  title: '시험 MS-101: Microsoft 365 Mobility and Security'
-  description: '시험 MS-101: Microsoft 365 Mobility and Security'
+  title: 'Exam MS-101: Microsoft 365 Mobility and Security'
+  description: 'Exam MS-101: Microsoft 365 Mobility and Security'
 uid: exam.ms-101
 displayName: MS-101
-summary: >-
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
   이 시험은 Microsoft 365 엔터프라이즈 서비스를 평가, 계획, 마이그레이션, 배포, 관리에 참여하는 Microsoft 365 Enterprise Administrator를 대상으로 실시됩니다. 응시자는 ID, 보안, 규제 준수 및 지원 기술을 포함해 기업용 Microsoft 365 테넌트 관리 작업을 수행하게 됩니다.
 
-
   응시자는 Microsoft 365 워크로드에 대한 실무 지식이 있으며 최소한 하나의 Microsoft 365 워크로드(Exchange, SharePoint, Skype for Business, 또는 Windows as a Service)의 관리자 경험이 있어야 합니다. 응시자는 네트워킹, 서버 관리, DNS Active Directory 및 PowerShell과 같은 IT 기본 지식에 대한 실무 지식도 갖추고 있어야 합니다.
-subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 최신 장치 서비스 구현, Microsoft 365 보안 및 위협 관리 구현, Microsoft 365 거버넌스 및 준수 관리.
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 최신 장치 서비스 구현, Microsoft 365 보안 및 위협 관리 구현, Microsoft 365 거버넌스 및 준수 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-101&examname=Exam%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-101
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-101&examname=시험%20MS-101:%20Microsoft%20365%20Mobility%20and%20Security&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-101
 levels:
 - advanced
 skills:
+- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - 최신 장치 서비스 구현 (30-35%)
 - Microsoft 365 보안 및 위협 관리 구현 (30-35%)
 - Microsoft 365 거버넌스 및 준수 관리 (35-40%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-100
 products:
 - m365
 - azure-active-directory
 - office-365
+exams:
+- uid: exam.ms-100
 courses:
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-101t00
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

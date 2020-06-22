@@ -1,0 +1,273 @@
+### YamlMime:Course
+title: Upgrading Your Skills to MCSA Windows Server® 2012
+metadata:
+  title: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+  description: 'Course 20417-D: Upgrading Your Skills to MCSA Windows Server® 2012'
+uid: course.20417
+courseNumber: '20417-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Windows Server 2012 설치 및 구성.
+- skill: Windows PowerShell®을 사용한 Windows Server 2012 관리.
+- skill: Windows Server 2012에서 스토리지 관리.
+- skill: 네트워크 서비스 구현.
+- skill: 원격 액세스 구현
+- skill: 장애 조치(Failover) 클러스터링 구현.
+- skill: Hyper-V 구현.
+- skill: Hyper-V를 통한 장애 조치 클러스터링 구현.
+- skill: 사용자 및 장치에 대한 보안 데이터 액세스 구현.
+- skill: Active Directory® Domain Services (AD DS) 구현.
+- skill: AD FS (Active Directory Federation Services) 구현.
+- skill: Windows Server 2012 모니터링 및 유지 관리.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-417
+summary: |-
+  5일간 진행하는 본 Microsoft 공식 과정에서는 Windows Server 2012 R2를 비롯한 Windows Server 2012의 새로운 특징과 기능을 구성 및 구현하는 실습 교육과 실천에 대해 설명합니다. 본 과정은 기존 Windows Server 전문 기술을 Windows Server 2012 및 Windows Server 2012 R2로 업그레이드하려는 IT 전문가를 대상으로 합니다. 이미 MCSA&#58; Windows Server 2008 자격 증명과 동등한 Windows Server 기술 및 기능에 대한 높은 수준의 지식을 소유했다고 가정합니다. 
+
+  본 과정에서는 관리, 네트워크 인프라, 스토리지, 액세스 제어, 가상화, 고가용성 및 ID 페더레이션을 비롯한 Windows Server 2012 및 Windows Server 2012 R2의 새로운 특징과 기능에 대해 설명합니다. 여기에는 Windows PowerShell, Storage Spaces 및 Internet Small Computer System Interface(iSCSI), Active Directory, Hyper-V와 DirectAccess, VPN, Web Application Proxy(WAP)와 같은 원격 액세스 솔루션 구현이 포함됩니다. 또한 본 과정에서는 장애조치 클러스터링, 페더레이션 서비스 뿐만 아니라 동적 액세스 제어와 같은 액세스 및 정보 프로비저닝 및 보호 기술, 페더레이션 서비스 및 Workplace Join과의 Web Application Proxy 통합에 대해서도 설명합니다. 
+
+  본 과정은 특정 환경을 Windows Server 2012로 마이그레이션 및 업그레이드하기 위한 고려사항을 자세히 설명하는 제품 업그레이드 관련 과정이 아닙니다. 대신 본 과정에서는 기존 Windows Server 지식과 기술을 Windows Server 2012 R2를 포함하는 Windows Server 2012로 업데이트합니다. 
+
+  본 과정은 적합한 업그레이드 경로가 있는 인증서를 업그레이드하기 위한 시험인 MCSA(Microsoft Certified Solutions Associate)&#58; 시험 [417&#58; Upgrading Your Skills to MCSA Windows Server 2012](http://www.microsoft.com/learning/exam-70-417.aspx)에 직접 매핑되며 실무 준비를 위해 선호되는 과정입니다. 지원되는 다양한 업그레이드 경로에 대한 자세한 내용은 여기 [https://www.microsoft.com/learning/en-au/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx)  
+
+  참고&#58; 이 과정의 랩은 Windows Server 2012 R2 및 Windows 8.1을 기반으로 합니다.
+
+  #### 대상 그룹 프로필
+  본 과정은 IT(정보 기술) 전문가로서 일상적인 Windows Server 관리 및 유지 관리 작업을 수행하는 데 익숙한 숙련된 Windows Server 시스템 관리자를 대상으로 합니다. 대상자는 본 과정을 통해 자기 기술을 Windows Server 2012 및 Windows Server 2012 R2로 업데이트합니다. 이 과정에 적합한 지원자는 다음과 같습니다&#58;
+  - Windows Server 엔터프라이즈 환경에서 일한 실무 경험이 있는 숙련된 Windows Server 관리자.
+  - [MCSA&#58; Windows Server 2008](http://www.microsoft.com/learning/en-gb/mcsa-windows-server-2008-certification.aspx)를 취득했거나, [여기](https://www.microsoft.com/learning/windows-server-certification.aspx)에서 자세히 서술된 업그레이드 가능한 인증 자격을 갖추었거나 또는 동등한 지식을 가진 IT 전문가.
+  - 데이터 센터, 데스크톱 인프라, 메시징, 협업 및 커뮤니케이션 분야의 MCSE(Microsoft Certified Solutions Expert) 시험에 응시하고자 하는 IT 전문가들도 개개인의 특수성을 위한 필수 조건인 MCSA(Microsoft Certified Solutions Associate) Windows Server 2012 자격 증명을 준비하는 과정에서 본 과정을 수강하고자 합니다.
+prerequisitesSection: |-
+  이 과정에 참석하기 전에 학생들은 다음을 갖추어야 합니다&#58;
+  - 엔터프라이즈 환경에서 일상적인 Windows Server 시스템 관리, 일반 관리 및 유지 보수 작업 경험
+  - 여기[https://www.microsoft.com/learning/windows-server-certification.aspx](https://www.microsoft.com/learning/windows-server-certification.aspx), 에 나열된 70-417 업그레이드 시험을 응시할 수 있는 자격증을 취득했거나 그에 상응하는 지식을 갖추고 있습니다.
+
+  참고&#58; 상응한 지식의 기준이 충족되면 업그레이드 가능한 자격 증명이 없이도 본 과정을 수강할 수 있습니다. 그러나 70-417 업그레이드 시험을 응시하고 합격하면 응시자에게 MCSA&#58; Windows Server 2012 자격 증명 시험이 제공되지 않습니다. 본 자격 증명 업그레이드는 기존에 업그레이드 가능한 인증을 소유한 자 전용으로, 위에 나열된 URL에서 세부 정보를 확인할 수 있습니다.
+outlineSection: |-
+  ### 모듈 1&#58; Windows Server 2012 설치 및 구성
+  본 모듈에서는 Windows Server 2012를 설치하고 구성하는 방법을 설명합니다. 특히 Server Core 등의 설치 및 역할 설치, 설치 유형 관련 요구 사항 및 고려사항을 설명합니다. 또한 Windows Server 2012를 실행하는 서버 원격 관리의 구현 및 구성에 대해서도 다룹니다.
+  #### 단원
+  - Windows Server 2012 R2 설치
+  - Windows Server 2012 R2 및 Windows Server 2012 구성
+  - Windows Server 2012 R2 및 Windows Server 2012에 대한 원격 관리 구성
+
+
+  #### 랩 &#58; Windows Server 2012 R2 설치 및 구성
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2012 R2 설치.
+  - Windows Server 2012 R2 및 Windows Server 2012 구성.
+  - Windows Server 2012 R2 및 Windows Server 2012에 대한 원격 관리 구성.
+
+
+  ### 모듈 2&#58; Windows PowerShell을 사용한 Windows Server 2012 관리
+  본 모듈에서는 Windows PowerShell을 사용하여 Windows Server 2012를 관리하는 방법을 설명합니다. Windows PowerShell 및 Windows PowerShell ISE(통합 스크립팅 환경)에 대한 개요를 제공합니다. 또한 AD DS 및 일반 서버 관리의 맥락에서 Windows PowerShell에 대해서도 설명합니다.
+  #### 단원
+  - Windows PowerShell 개요
+  - Windows PowerShell을 사용하여 AD DS 관리
+  - Windows PowerShell을 사용하여 서버 관리
+
+
+  #### 랩 &#58; Windows PowerShell을 사용하여 Windows Server 2012에서 실행하는 서버 관리
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows PowerShell 명령줄 인터페이스 설명.
+  - Windows PowerShell을 사용하여 AD DS(Active Directory Domain Services) 관리.
+  - Windows PowerShell을 사용하여 서버 관리.
+
+
+  ### 모듈 3&#58; Windows Server 2012에서 스토리지 관리
+  본 모듈에서는 Windows Server 2012에서 스토리지를 구성하는 방법을 설명합니다.
+  #### 단원
+  - Windows Server 2012에서 스토리지 기능
+  - iSCSI 저장소 구성
+  - Windows Server 2012에서 스토리지 공간 구성
+  - Windows Server 2012에서 BranchCache 구성
+
+
+  #### 랩 &#58; Windows Server 2012를 실행하는 서버에서 스토리지 관리
+
+  #### 랩 &#58; BranchCache 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2012의 스토리지 기능 설명.
+  - iSCSI 저장소 구성.
+  - 스토리지 공간 구성.
+  - BranchCache 구성.
+
+
+  ### 모듈 4&#58; 네트워크 서비스 구현
+  본 모듈에서는 DNS(Domain Name System) 및 DHCP(Dynamic Host Configuration Protocol)에 대한 고급 기능을 구성하는 방법을 설명합니다. 또한 IPAM(IP 주소 관리) 및 NAP(네트워크 액세스 보호)를 구성하는 방법도 설명합니다.
+  #### 단원
+  - DNS 및 DHCP 개선사항 구현
+  - IPAM 구현
+  - IPAM을 사용한 IP 주소 공간 관리
+  - NAP 개요
+  - NAP 구현
+
+
+  #### 랩 &#58; 네트워크 서비스 구현
+
+  #### 랩 &#58; NAP 배포
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - DHCP 및 DNS 개선사항 구현.
+  - IPAM 구현.
+  - IPAM을 통한 IP 주소 공간 관리.
+  - NAP 설명.
+  - NAP 구현.
+
+
+  ### 모듈 5&#58; 원격 액세스 구현
+  본 모듈에서는 Windows Server 2012을 사용하여 원격 액세스를 프로비저닝하는 옵션에 대해 설명합니다. 특히 DirectAccess와 VPN 및 인증서 사용을 비롯하여 Windows Server 2012 환경에서 이러한 원격 액세스 기술을 구현 및 관리하기 위한 고려 사항에 대해 설명합니다.
+  #### 단원
+  - 원격 액세스 개요
+  - 시작 마법사를 사용한 DirectAccess 구현
+  - 고급 DirectAccess 인프라 구현 및 관리
+  - VPN 구현
+
+
+  #### 랩 &#58; DirectAccess 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2012에서 원격 액세스 역할 설치 및 관리.
+  - 시작 마법사를 사용하여 DirectAccess 구현.
+  - 고급 DirectAccess 인프라 구현 및 관리.
+  - Windows Server 2012에서 VPN 액세스 구현.
+
+
+  ### 모듈 6&#58; 장애 조치(failover) 클러스터링 구현
+  본 모듈에서는 장애조치 클러스터링을 구현하여 네트워크 서비스 및 애플리케이션에 대한 고가용성을 제공하는 방법을 설명합니다. 또한 약관 및 기술에 대한 개요와 함께 논의 중인 서비스 및 애플리케이션에 대한 구체적인 고려사항 및 옵션을 제공합니다.
+  #### 단원
+  - 장애 조치 클러스터링 개요
+  - 장애 조치 클러스터 구현
+  - 장애 조치 클러스터에서 고가용성 애플리케이션 및 서비스 구성
+  - 장애 조치 클러스터 유지 관리
+  - 멀티 사이트 장애 조치 클러스터 구현
+
+
+  ### 랩 &#58; 장애 조치 클러스터링 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 장애 조치 클러스터링 설명.
+  - 장애 조치 클러스터 구현.
+  - 고가용성 애플리케이션 및 서비스 구성.
+  - 장애 조치(failover) 클러스터 유지 관리.
+  - 멀티 사이트 장애 조치 클러스터링 구현.
+
+
+  ### 모듈 7&#58; Hyper-V 구현
+  본 모듈에서는 Hyper-V 가상 머신을 설치하고 구성하는 방법을 설명합니다. 여기에는 일반 구성뿐만 아니라 스토리지 및 네트워킹 고려사항도 포함됩니다. 또한 Windows Server 2012 R2에 도입된 차이점도 설명합니다.
+  #### 단원
+  - Hyper-V 서버 구성
+  - Hyper-V 스토리지 구성
+  - Hyper-V 네트워킹 구성
+  - Hyper-V 가상 머신 구성
+
+
+  ### 랩 &#58; Hyper-V로 서버 가상화 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Hyper-V 서버 구성.
+  - Hyper-V 저장소 구성.
+  - Hyper-V 네트워킹 구성.
+  - Hyper-V 가상 머신 구성.
+
+
+  ### 모듈 8&#58; Windows Server 2012 R2 Hyper-V로 장애 조치 (Failover) 클러스터링 구현
+  본 모듈에서는 장애 조치 클러스터에 Hyper-V 가상 머신을 배포하고 관리하는 방법을 설명합니다. 또한 관련 기술에 대한 개요와 가상 머신의 일반 구성 및 마이그레이션에 대한 세부 정보를 제공합니다.
+  #### 단원
+  - Hyper-V Server 2012과 장애 조치 클러스터링 통합 개요
+  - 장애 조치 클러스터에 Hyper-V 가상 머신 구현.
+  - Windows Server 2012 Hyper-V 가상 머신 마이그레이션 구현
+  - Hyper-V 복제본 구현
+
+
+  #### 랩 &#58; Windows Server 2012 Hyper-V로 장애 조치 클러스터링 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Hyper-V를 장애 조치 클러스터링과 통합하는 방법 설명.
+  - 장애 조치 클러스터에 Hyper-V 가상 머신 구현.
+  - Hyper-V 가상 머신 이동 구현.
+  - Hyper-V 복제본 구현.
+
+
+  ### 모듈 9&#58; 사용자 및 디바이스에 대한 보안 데이터 액세스 구현
+  본 모듈에서는 사용자 및 디바이스에 대한 보안 데이터 액세스를 구성하는 방법을 설명합니다. 주로 DAC(동적 액세스 제어) 및 작업 폴더 구현에 대해 다룹니다.
+  #### 단원
+  - 동적 액세스 제어 개요
+  - DAC 구성 요소 구현
+  - 액세스 제어용 DAC 구현
+  - 액세스 거부 지원 구현
+  - 작업 폴더 구현 및 관리
+
+
+  #### 랩 &#58; Secure File Access 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - DAC 설명.
+  - DAC 구성 요소 구현.
+  - 액세스 제어를 위한 DAC 구현.
+  - 액세스 거부 지원 구현.
+  - 작업 폴더 구현 및 관리.
+
+
+  ### 모듈 10&#58; AD DS 구현
+  본 모듈에서는 Windows Server 2012에서 AD DS를 구현하는 방법을 설명합니다. 도메인 컨트롤러의 배포 및 구성뿐만 아니라 Windows Azure Active Directory에서 제공하는 서비스 계정, 그룹 정책 및 서비스의 사용 및 구현에 대해서도 다룹니다. 또한 AD DS의 일반적인 유지 관리도 설명합니다.
+  #### 단원
+  - AD DS 도메인 컨트롤러 배포
+  - AD DS 도메인 컨트롤러 구성
+  - 서비스 계정 구현
+  - AD DS에서 그룹 정책 구현
+  - Windows Azure Active Directory 개요
+  - AD DS 유지 관리
+
+
+  #### 랩 &#58; AD DS 구현
+
+  #### 랩 &#58; AD DS 문제 해결 및 유지 관리
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 도메인 컨트롤러 배포.
+  - 도메인 컨트롤러 구성.
+  - 서비스 계정 구현.
+  - 그룹 정책 구현.
+  - Windows Azure Active Directory 설명.
+  - AD DS 유지 관리.
+
+
+  ### 모듈 11&#58; AD FS 구현
+  본 모듈에서는 AD FS 배포를 구현하는 방법을 설명합니다. 단일 조직 사용 시나리오는 물론 B2B(business-to-business) 시나리오도 다룹니다. 또한 본 모듈에서는 Web Application Proxy 및 Workplace Join에 대해서도 설명합니다.
+  #### 단원
+  - AD FS 개요
+  - AD FS 배포
+  - 단일 조직용 AD FS 구현
+  - B2B 페더레이션 시나리오에서 AD FS 배포
+  - WAP(웹 애플리케이션 프록시) 구현
+  - Workplace Join 구현
+
+
+  #### 랩 &#58; AD FS 구현
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - AD FS 설명.
+  AD FS 배포 방법 설명.
+  - 단일 조직에 AD FS를 구현하는 방법을 설명하십시오.
+  - B2B(business-to-business) 페더레이션 시나리오에서 AD FS를 배포하는 방법 설명.
+  - Web Application Proxy 구현 방법 설명.
+  - Workplace Join 구현 방법 설명.
+
+
+  ### 모듈 12&#58; Windows Server 2012 모니터링 및 유지 관리
+  본 모듈에서는 Windows Server 2012를 모니터하고 유지 관리하는 방법을 설명합니다. 성능 모니터 및 데이터 수집기 집합과 서버 백업 및 복구 기술에 대해 설명합니다.
+  #### 단원
+  - Windows Server 2012 모니터링
+  - Windows Server 백업 구현
+  - 서버 및 데이터 복구 구현
+
+
+  #### 랩 &#58; Windows 2012 Server 모니터링 및 유지 관리
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2012 모니터링.
+  - Windows Server Backup 구현.
+  - Windows Server Backup을 사용한 데이터 및 서버 복구.
+

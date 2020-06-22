@@ -1,0 +1,72 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure AI Fundamentals'
+  description: 본 인증은 2020년 6월 8일 또는 그 즈음에 사용할 수 있습니다. Azure AI Fundamentals는 Machine Learning 및 인공지능 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 검증합니다.
+uid: certification.azure-ai-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  Azure AI Fundamentals 인증의 응시자는 Machine Learning(ML) 및 인공지능(AI) 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 갖추고 있어야 합니다.  
+
+  본 인증은 일반적인 ML 및 AI 워크로드에 대한 지식과 Azure에서 그를 구현하는 방법을 시연할 수 있는 기회입니다.  
+
+  본 인증은 기술적 배경이 있거나 없는 모든 응시자를 대상으로 합니다. 데이터 과학 및 소프트웨어 엔지니어링 경험은 필요하지 않지만 일반적인 프로그래밍 지식이나 경험은 이점이 될 것입니다.  
+
+  Azure AI Fundamentals는 Azure Data Scientist Associate 또는 Azure AI Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 어느 인증에도 필수 조건은 아닙니다.  
+
+  <div><br/><strong>참고&#58;본 인증은 2020년 6월 8일 또는 그 즈음에 사용할 수 있습니다.</strong></div>
+subTitle: 본 인증은 2020년 6월 8일 또는 그 즈음에 사용할 수 있습니다. Azure AI Fundamentals는 Machine Learning 및 인공지능 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 검증합니다.
+levels:
+- beginner
+skills:
+- AI 워크로드 및 고려사항 설명
+- Azure에서 Machine Learning의 기본 원리 설명
+- Azure에서 Computer Vision 워크로드의 특징 설명
+- Azure에서 대화형 AI 워크로드의 특징 설명
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+type: fundamentals
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
+exams:
+- uid: exam.ai-900
+resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

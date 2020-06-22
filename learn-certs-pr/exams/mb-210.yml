@@ -1,39 +1,41 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Sales
 metadata:
-  title: '시험 MB-210: Microsoft Dynamics 365 Sales'
-  description: '시험 MB-210: Microsoft Dynamics 365 Sales'
+  title: 'Exam MB-210: Microsoft Dynamics 365 Sales'
+  description: 'Exam MB-210: Microsoft Dynamics 365 Sales'
 uid: exam.mb-210
 displayName: MB-210
-summary: >-
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 1월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  </div>
+
   본 시험은 영업 전문 Dynamics 365 기능 컨설턴트를 대상 응시자로 합니다. 응시자는 매출 목표, 비즈니스 전략 및 회사의 목표를 달성하기 위해 효율적이고 효과적인 영업 수명 주기를 지원하는 솔루션을 구현해야 합니다.
 
-  <br/>
-
-
-  응시자는 잠재 고객, 연락처, 계정, 기회 및 지원 엔터티의 핵심 기능을 구성 및 확장하여 회사의 판매 프로세스에 맵핑해야 합니다. 또한 응시자는 모든 기기에 사용할 균일한 경험을 개발하는 데 Power App 사용, 애플리케이션 통합을 위한 Power Automate, 비즈니스 프로세스 흐름, '잠재 고객을 실제 수익으로 연결하는 과정’을 가속하는 애플리케이션을 구성하는 기타 자동화 도구를 사용할 기회를 식별해야 합니다.
-
+  응시자는 잠재고객, 연락처, 계정, 기회 및 지원 엔터티의 핵심 기능을 구성 및 확장하여 회사의 판매 프로세스에 맵핑해야 합니다. 또한 응시자는 모든 기기에 사용할 균일한 경험을 개발하는 데 Power App 사용, 애플리케이션 통합을 위한 Power Automate, 비즈니스 프로세스 흐름, '잠재 고객을 실제 수익으로 연결하는 과정'을 가속하는 애플리케이션을 구성하는 기타 자동화 도구를 사용할 기회를 식별해야 합니다.
 
   응시자는 출중한 비즈니스 관련 지식을 보유하고 있어야만 하며, 가급적 직접 영업 환경에서 근무한 경험이 있어야 합니다.
-subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 구성 수행, 핵심 영업 엔티티 및 영업 엔티티 관리.
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 구성 수행, 핵심 영업 엔티티 및 영업 엔티티 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-210&examname=시험%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 levels:
 - intermediate
 skills:
+- 본 시험 내용은 2020년 5년 1월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
 - 구성 수행 (40-45%)
 - 핵심 영업 엔티티 관리 (20-25%)
 - 세일즈 엔티티 관리 (35-40%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-200
 products:
 - dynamics
 - dynamics-sales
+exams:
+- uid: exam.mb-200
 courses:
 - uid: course.mb-210t01
 paths:
@@ -45,23 +47,27 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-sales
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate.'
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

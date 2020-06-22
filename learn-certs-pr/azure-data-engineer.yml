@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><div style='color&#58; red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
   Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
 subTitle: Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
 levels:
@@ -14,7 +16,7 @@ skills:
 - '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - 데이터 저장소 솔루션 구현
 - 데이터 처리 관리 및 개발
-- 솔루션 모니터링 및 최적화
+- 데이터 솔루션 모니터링 및 최적화
 - Azure 데이터 저장소 솔루션 설계
 - 데이터 처리 솔루션 설계
 - 데이터 보안 및 규정 준수 설계
@@ -49,14 +51,17 @@ exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
@@ -64,3 +69,4 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

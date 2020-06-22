@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Certified Trainer 취득 | Microsoft Docs'
-description: 'Microsoft Certified Trainer 취득'
+title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
+description: 'Become a Microsoft Certified Trainer' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -19,7 +19,7 @@ Microsoft Certified Trainer가 되려면 우선 각 교육 과정에서 다루�
 
 Microsoft Certified Trainer 프로그램은 해마다 진행되는 연례 멤버십 프로그램입니다. 온라인 신청서를 작성하고 연회비를 결제하신 다음 프로그램 요건을 충족하셔야 다음 해를 위한 교육 인증을 갱신하실 수 있습니다.
 
-[MCT 지원팀](https://aka.ms/mctforum)에 MCT 인증 절차 및 프로그램 요건에 대한 궁금한 점을 문의해 주세요.
+MCT 프로그램 요구 사항, MCT 등록 또는 갱신 프로세스에 대한 질문이나 MCT 프로그램에 대한 기타 문의 사항이 있는 경우 [MCT Support](https://aka.ms/mctforum)에 문의하시기 바랍니다.
 
 ## MCT 프로그램 혜택
 
@@ -37,17 +37,17 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 
 
 ### MCT 프로그램 참여 요건
-
 - 현재 MCT 프로그램에 적격한 Microsoft 인증 또는 자격을 보유해야 합니다. 
 (자격 인증 목록은 아래를 참조하십시오)
 - 다음 중 한 가지 인증을 통해 강의 기술을 입증해야 합니다.
   - 강의 기술 인증
     - CompTIA CTT+
     - Essential Educate Trainer (내부 Microsoft - 인증)
+	- Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer(IAMCT ATT)
-    - IPM(Institut für Personalberatung und Managemententwicklung)
+    - IPM (Institut für Personalberatung und Managemententwicklung)
     - Learning and Performance Institute Trainer Performance Monitoring and Assessment (TPMA)
     - Learning Tree Train the Trainer Program
     - Marcom Deli
@@ -81,7 +81,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(2020년 8월 31일에 중지됩니다.)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -99,14 +99,14 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
-- [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2021년 1월 31일 일요일 사용 중지), Microsoft Dynamics 365 for Operations (2021년 1월 31일 일요일 사용 중지), SQL 2016 BI Development (2021년 1월 31일 일요일 사용 중지), SQL 2016 Database Administration (2021년 1월 31일 일요일 사용 중지), SQL 2016 Database Development (2021년 1월 31일 일요일 사용 중지), SQL Server 2012/2014 (2021년 1월 31일 일요일 사용 중지), Universal Windows Platform (2021년 1월 31일 일요일 사용 중지), Web Applications (2021년 1월 31일 일요일 사용 중지), Windows Server 2012 (2021년 1월 31일 일요일 사용 중지), 또는 Windows Server 2016 (2021년 1월 31일 일요일 사용 중지)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (2021년 1월 31일 일요일 사용 중지), Data Management and Analytics (2021년 1월 31일 일요일 사용 중지), Productivity (2021년 1월 31일 일요일 사용 중지), 또는 Core Infrastructure (2021년 1월 31일 일요일 사용 중지)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (2021년 1월 31일 일요일 사용 중지)
 - Dynamics CRM Dynamics Technical (2019년 12월 31일 중단) - [각 Microsoft Dynamics 자격 및 인증과 관련된 요구 사항 이해](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
-- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 및 Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 및 Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
+- [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
-**참고** MCT 프로그램에 적격한 Microsoft 인증 및 자격은 변동될 수 있습니다. 모든 새로운 역할 기반 인증은 출시된 후 MCT 프로그램에 대한 자격을 얻게 됩니다. 만료된 인증은 만료일로부터 최대 6개월까지 MCT 프로그램에 대한 자격을 가집니다. [인증 중단에 대해 더 알아보기](https://www.microsoft.com/learning/retired-certifications.aspx).
+**참고** MCT 프로그램에 적격한 Microsoft 인증 및 자격은 변동될 수 있습니다. 모든 새로운 역할 기반 인증은 출시된 후 MCT 프로그램에 대한 자격을 얻게 됩니다. 만료된 인증은 만료일로부터 최대 6개월까지 MCT 프로그램에 대한 자격을 가집니다. [인증 중단에 대해 자세히 알아보기](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## 신청 절차
 
@@ -138,14 +138,6 @@ MCT 등록 도구의 용도:
 - **프로필 정보 업데이트.** 프로필에 기입하신 정보는 MCT 관련 커뮤니케이션을 위해 사용됩니다.
 - **고용 상태 명시.** Learning Partner 또는 Microsoft Imagine Academy에 재직 중이신 경우에는 해당 ID 번호를 명시해주시기 바랍니다.
 - **결제 방법 선택.** 프로그램 수수료는 귀하의 소속 국가/지역 및 고용 상태에 따라 상이합니다. 귀하의 소속 국가/지역의 MCT 및 MCT Alumni 멤버십 수수료에 대한 정보는 페이지 하단의 검색 툴을 사용하여 확인하실 수 있습니다.
-
-**참고** Learning Partner에 속한 회사의 직원이며 고용주가 MCT 프로그램 비용을 대신 지불하는 경우에는 다음 절차를 따르십시오.
-
-1. [코스웨어 시장](https://shop.courseware-marketplace.com/)에서 MCT 쿠폰을 구입하십시오.
-2. [MCT 인증 도구](https://mcp.microsoft.com/Authenticate/MCT)에서 신청하십시오.
-3. 프로그램 비용을 지불하라는 메시지가 표시되면 MCT 쿠폰 코드를 입력하십시오.
-
-등록 및 지불을 완료하면 MCT 환영 전자 메일이 수신됩니다. 그러면 [인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)에서 MCT 콘텐츠에 액세스할 수 있습니다.
 
 ## MCT Alumni 프로그램
 

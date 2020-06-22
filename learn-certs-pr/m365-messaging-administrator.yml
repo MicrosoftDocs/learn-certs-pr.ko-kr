@@ -2,48 +2,43 @@
 title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.
+  description: 'Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링합니다.'
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.
-subTitle: Microsoft 365 Messaging 관리자는 온-프레미스, 하이브리드 및 cloud 엔터프라이즈 환경에서 메시징 인프라, 사용 권한, 클라이언트액세스, 메일 보호, 메일 흐름을 배포, 구성, 관리 및 모니터링합니다.
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
+  Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링합니다.
+subTitle: Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링합니다.
 levels:
 - intermediate
 skills:
-- 최신 메시징 인프라 설계
-- 메일 흐름 토폴로지 관리
-- 수신인 및 장치 관리
+- 최적화 설정 및 리소스 관리
+- 메일 아키텍처 계획 및 관리
 - 하이브리드 구성 및 마이그레이션 계획 및 구현
 - 메시징 환경 보안
-- 조직 설정 관리
 roles:
 - administrator
 type: role-based
 products:
 - m365
-courses:
-- uid: course.ms-200t01
-- uid: course.ms-200t02
-- uid: course.ms-200t03
-- uid: course.ms-201t01
-- uid: course.ms-201t02
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 exams:
-- uid: exam.ms-200
-- uid: exam.ms-201
+- uid: exam.ms-203
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

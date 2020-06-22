@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals
+title: Microsoft Azure Fundamentals (1 Day)
 metadata:
-  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
-  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
@@ -18,43 +18,53 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
   본 과정에서는 클라우드 서비스와 이러한 서비스가 Microsoft Azure와 병행되어 제공되는 방법에 대한 기초 수준의 지식을 제공합니다. 본 과정은 이후의 Microsoft Azure 또는 Microsoft 클라우드 서비스 과정을 수강하기 전에 클라우드 서비스 및 Microsoft Azure에 대한 학습을 위한 선택적 첫 단계로 진행할 수 있습니다.
+
   본 과정에서는 일반 클라우드 컴퓨팅 개념뿐 아니라 공개, 비공개 및 하이브리드 클라우드, Infrastructure-as-a-Service (IaaS), Platform-as-a-Service(PaaS), 및 Software-as-a-Service (SaaS) 등의 일반 클라우드 컴퓨팅 모델과 서비스에 대해서도 다룹니다.
+
   또한 보안, 개인 정보 보호, 규정 준수 및 신뢰와 관련된 핵심 Azure 서비스 및 솔루션도 다룹니다. 마지막으로 Azure에서 이용할 수 있는 가격 및 지원 서비스에 대해서 설명합니다.
+
   #### 대상 그룹 프로필
   본 과정을 수강하기 위한 필수 요구 사항은 없습니다. Microsoft Azure에 대해 자세히 알고 싶어하는 모든 수강생을 대상으로 합니다.
 prerequisitesSection: |-
   본 과정을 수강하기 위한 필수 요구 사항은 없습니다. 기술적인 IT 경험은 요구되지 않지만, 일반적인 IT 지식 또는 경험은 이점이 될 것입니다.
 outlineSection: |-
   ### 모듈 1&#58; 클라우드 개념
-  이 모듈에서는 기본적인 클라우드 개념을 설명합니다.
+  본 모듈에서는 기본적인 클라우드 개념을 설명합니다.
   #### 단원
   - 학습 목적
   - 클라우드 서비스 사용 이유?
-  - Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), 및 Software-as-a-Service (SaaS)
-  - 공용, 사설 및 하이브리드 클라우드 모델
+  - 서비스로서의 인프라 (IaaS), 서비스로서의 플랫폼 (PaaS), 및 서비스로서의 소프트웨어(SaaS)
+  - 공용, 프라이빗 및 하이브리드 클라우드 모델
 
-  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다&#58;
+  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다.
   - 일반 클라우드 컴퓨팅 개념 이해
 
 
-  ### 모듈 2&#58; 핵심 Azure Services
-  이 모듈에서는 Microsoft Azure에서 사용할 수 있는 핵심 서비스에 대해 설명합니다.
+  ### 모듈 2&#58; Core Azure Services
+  본 모듈에서는 Microsoft Azure에서 사용할 수 있는 핵심 서비스에 대해 설명합니다.
   #### 단원
   - Azure 아키텍처의 핵심 구성 요소
-  - 핵심  Azure 서비스 및 제품
-  - Azure Solutions
+  - 핵심 Azure 서비스 및 제품
+  - Azure 솔루션
   - Azure 관리 도구
 
-  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다&#58;
-  - Microsoft Azure에서 사용할 수 있는 핵심 서비스 이해
-
+  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다.
+  - 에서 사용할 수 있는 핵심 서비스 이해
+  Microsoft Azure
 
   ### 모듈 3&#58; 보안, 개인 정보 보호, 규정 준수 및 신뢰
   이 모듈에서는 Microsoft Azure의 보안, 개인 정보 보호, 규정 준수 및 신뢰에 대해 설명합니다.
@@ -66,18 +76,18 @@ outlineSection: |-
   - Azure에서 모니터링 및 보고
   - Azure의 개인 정보 보호, 규정 준수 및 데이터 보호 표준
 
-  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다&#58;
-  - Microsoft Azure의 보안, 개인 정보 보호, 규정 준수 및 신뢰 이해
+  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다.
+  - Microsoft Azure의
+  보안, 개인 정보 보호, 규정 준수 및 신뢰 이해
 
-
-  ### 모듈 4&#58; Azure 가격 및 지원
-  이 모듈에서는 Microsoft에서 사용할 수 있는 가격 및 지원 모델에 중점을 둡니다.
+  ### 모듈 4&#58; Azure 가격 책정 및 지원
+  본 모듈에서는 Microsoft에서 사용할 수 있는 가격 및 지원 모델에 중점을 둡니다.
   #### 단원
   - Azure 구독
   - 비용 계획 및 관리
   - Azure에서 사용할 수 있는 지원 옵션
   - Azure의 서비스 수명주기
 
-  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다&#58;
+  이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다.
   - Microsoft에서 사용할 수 있는 가격 및 지원 모델 이해
 

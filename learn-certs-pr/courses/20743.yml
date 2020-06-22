@@ -1,0 +1,296 @@
+### YamlMime:Course
+title: 'Upgrading Your Skills to MCSA: Windows Server 2016'
+metadata:
+  title: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+  description: 'Course 20743-C: Upgrading Your Skills to MCSA: Windows Server 2016'
+uid: course.20743
+courseNumber: '20743-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Windows Server 2016 설치 및 구성.
+- skill: Windows Server 2016에서 스토리지 설명.
+- skill: 디렉터리 서비스 구현.
+- skill: AD FS (Active Directory Federation Services) 구현.
+- skill: 네트워킹 설명.
+- skill: Hyper-V 구현.
+- skill: 고급 네트워킹 기능 구성.
+- skill: 소프트웨어 방식 네트워킹 구현.
+- skill: 원격 액세스 구현.
+- skill: Windows 및 Hyper-V 컨테이너 배포 및 관리.
+- skill: 장애 조치(Failover) 클러스터링 구현.
+- skill: 가상 머신을 사용하여 장애 조치 클러스터링 구현.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-743
+summary: |-
+  5일간 진행하는 본 강사 주도 과정에서는 새로운 Windows Server 2016 특징 및 기능을 구현하고 구성하는 방법에 대해 설명합니다. 본 과정은 Windows Server 2008 또는 Windows Server 2012에서 Windows Server 2016으로 전문적 기술을 업그레이드하려는 IT(정보 기술) 전문가를 대상으로 합니다. 본 과정은 이미 Windows Server 기술 및 MCSA(Microsoft Certified Solutions Associate)&#58; Windows Server 2008 or Windows Server 2012 자격 증명과 동등한 기능에 대한 높은 수준의 지식을 소유했다고 가정합니다.
+
+  본 과정은 학생들에게 특정한 환경을 Windows Server 2016으로 마이그레이션 및 업그레이드하기 위한 고려사항을 자세히 설명하는 제품 업그레이드 관련 과정이 아닙니다. 대신 본 과정에서는 Windows Server 2016에 적용됨에 따라 수강생의 기존 Windows Server 지식과 기술에 대한 업데이트를 제공합니다.
+
+  #### 대상 그룹 프로필
+  본 과정은 Windows Server 2008 R2 또는 Windows Server 2008 엔터프라이즈 환경에서 작업한 실제적인 경험이 있는 Windows Server 2012 또는 Windows Server 2008 시스템 관리자를 대상으로 합니다. 또한 수강생은 Windows Server 2008 또는 Windows Server 2012에 대한 MCSA 자격 증명을 취득했거나 동등한 지식을 가지고 있어야 합니다. 
+
+  또한 MCSE(Microsoft Certified Solutions Expert) 시험에 응시하려는 IT 전문가는 MCSE 전문성을 갖추기 위한 필수 조건인 MCSA 시험 준비로써 본 과정에 관심이 있을 수 있습니다.
+prerequisitesSection: |-
+  이 과정에 참석하기 전에 학생들은 다음을 갖추어야 합니다&#58;
+  - Windows Server 2012 또는 Windows Server 2008 환경의 배포 및 관리에 대한 2년 이상의 경험, 일상적인 Windows Server 2012 또는 Windows Server 2008 시스템 관리 및 유지 보수 작업에 대한 NS 경험.
+  - Windows 네트워킹 기술 및 구현 경험.
+  - Active Directory 기술 및 구현 경험.
+  - Windows Server 가상화 기술 및 구현 경험.
+  - Windows Server 2008 또는 Windows Server 2012의 MCSA 자격 증명과 동등한 지식.
+outlineSection: |-
+  ### 모듈 1&#58; Windows Server 2016 설치 및 구성
+  본 모듈에서는 Windows Server 2016 서버의 설치 후 구성을 설치하고 수행하는 방법을 설명합니다.
+  #### 단원
+  - Windows Server 2016 소개
+  - Windows Server 2016 설치
+  - Windows Server 2016 구성
+  - 업그레이드 및 마이그레이션 준비
+  - 서버 역할 및 워크로드 마이그레이션
+  - Windows Server 정품 인증 모델
+
+
+  #### 랩 &#58; Server Core 서버 설치 및 구성
+  - Server Core 설치
+  - Windows Server 2016 Core에 설치 후 작업 완료
+  - 원격 관리 수행
+
+  이 과정을 마치면 다음을 수행 할 수 있습니다&#58;
+  - Windows Server 2016 설명.
+  - Windows Server 2016 설치
+  - Windows Server 2016 구성.
+  - 업그레이드 및 마이그레이션 준비.
+  - 서버 역할 및 워크로드를 마이그레이션하십시오.
+  - Windows Server 정품 인증 모델 설명.
+
+
+  ### 모듈 2&#58; Windows Server 2016의 스토리지 개요
+  본 모듈에서는 Windows Server 2016에서 스토리지를 구성하는 방법을 설명합니다.
+  #### 단원
+  - Windows Server 2016의 스토리지 개요
+  - 데이터 중복 제거 구현
+  - iSCSI 저장소 구성
+  - Windows Server 2016에서 스토리지 공간 기능 구성
+
+
+  #### 랩 &#58; 저장소 구현 및 관리
+  - FSRM(파일 서버 리소스 관리자) 구현
+  - 데이터 중복 제거 구현
+  - iSCSI 저장소 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2016에서 스토리지 설명.
+  - 데이터 중복 제거 구현.
+  - iSCSI 저장소 구성.
+  - Windows Server 2016에서 스토리지 공간 기능 구성.
+
+
+  ### 모듈 3&#58; 디렉터리 서비스 구현
+  본 모듈에서는 디렉터리 서비스 기능을 구현하는 방법을 설명합니다.
+  #### 단원
+  - Active Directory 도메인 컨트롤러 배포
+  - 서비스 계정 구현
+  - Azure AD
+
+
+  #### 랩 &#58; AD DS 구현 및 관리
+  - 도메인 컨트롤러 복제
+  - 서비스 계정 구현
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - AD DS 도메인 컨트롤러 배포.
+  - 서비스 계정 구현.
+  - Azure AD 설명.
+
+
+  ### 모듈 4&#58; AD FS 구현
+  본 모듈에서는 AD FS 배포를 구현하는 방법을 설명합니다.
+  #### 단원
+  - AD FS 개요
+  - AD FS 배포
+  - 단일 조직용 AD FS 구현.
+  - WAP(웹 애플리케이션 프록시) 구현
+  - Microsoft 온라인 서비스로 SSO 구현
+
+
+  #### 랩 &#58; AD FS 구현
+  - AD FS 설치 및 구성
+  - AD FS를위한 내부 응용 프로그램 구성
+
+
+  #### 랩 &#58; WAP(웹 애플리케이션 프록시) 구현
+  - WAP(웹 애플리케이션 프록시) 구현
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - AD FS 설명.
+  - AD FS 배포.
+  - 단일 조직용 AD FS 구현.
+  - Web Application Proxy 구현.
+  - Microsoft 온라인 서비스로 SSO 구현.
+
+
+  ### 모듈 5&#58; 네트워크 서비스 구현
+  본 모듈에서는 DHCP(Dynamic Host Configuration Protocol)에 대한 고급 기능을 구성하고 IPAM(IP 주소 관리)을 구성하는 방법을 설명합니다.
+  #### 단원
+  - 네트워킹 개선 사항 개요
+  - IPAM 구현
+  - IPAM을 사용한 IP 주소 공간 관리
+
+
+  #### 랩 &#58; 네트워크 서비스 구현
+  - DNS 정책 구성
+  - DHCP 장애 조치 구성
+  - IPAM 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 네트워킹 개선 사항 설명.
+  - IP 주소 관리 구현.
+  - IPAM을 통한 IP 주소 공간 관리.
+
+
+  ### 모듈 6&#58; Hyper-V 구현
+  본 모듈에서는 Hyper-V 가상 머신을 설치하고 구성하는 방법을 설명합니다.
+  #### 단원
+  - Windows Server 2016에서 Hyper-V 역할 구성
+  - Hyper-V 스토리지 구성
+  - Hyper-V 네트워킹 구성
+  - Hyper-V 가상 머신 구성
+
+
+  ### 랩 &#58; Hyper-V로 서버 가상화 구현
+  - Hyper-V 서버 역할 설치
+  - 가상 네트워킹 구성
+  - 가상 머신 만들기 및 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2016에서 Hyper-V 역할 구성.
+  - Hyper-V 저장소 구성.
+  - Hyper-V 네트워킹 구성.
+  - Hyper-V 가상 머신 구성.
+
+
+  ### 모듈 7&#58; 고급 네트워킹 기능 구성
+  본 모듈에서는 고급 네트워킹 인프라를 구현하는 방법을 설명합니다.
+  #### 단원
+  - 고성능 네트워킹 기능 개요
+  - 고급 Hyper-V 네트워킹 기능 구성
+
+
+  #### 랩 &#58; 고급 Hyper-V 네트워킹 기능 구성
+  - Hyper-V 가상 스위치 생성 및 사용
+  - 가상 스위치의 고급 기능 구성 및 사용
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 고성능 네트워킹 기능 설명.
+  - 고급 Hyper-V 네트워킹 기능 구성.
+
+
+  ### 모듈 8&#58; 소프트웨어 방식 네트워킹 구현
+  본 모듈에서는 소프트웨어 방식 네트워킹을 구현하는 방법을 설명합니다.
+  #### 단원
+  - SDN 개요
+  - 네트워크 가상화 구현
+  - 네트워크 컨트롤러 구현
+
+
+  #### 랩 &#58; 네트워크 컨트롤러 배포
+  - 네트워크 컨트롤러 배포 준비
+  - 네트워크 컨트롤러 배포
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 소프트웨어 방식 네트워킹 설명.
+  - 네트워크 가상화 구현.
+  - 네트워크 컨트롤러 구현.
+
+
+  ### 모듈 9&#58; 원격 액세스 구현
+  본 모듈에서는 DirectAccess 기능을 사용하여 원격 사용자의 연결을 구성하는 방법을 설명합니다.
+  #### 단원
+  - 원격 액세스 개요
+  - DirectAccess 구현
+  - VPN 구현
+
+
+  #### 랩 &#58; DirectAccess 구현
+  - 시작 마법사를 사용하여 DirectAccess 구성
+  - DirectAccess 검사
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 일반적인 원격 액세스 솔루션 및 기술 설명.
+  - DirectAccess 구현.
+  - VPN 구현.
+
+
+  ### 모듈 10&#58; Windows 및 Hyper-V 컨테이너 배포 및 관리.
+  본 모듈에서는 Windows Server 2016 컨테이너에 대한 개요를 제공합니다. 또한 Windows Server 2016에서 컨테이너를 배포, 설치, 구성 및 관리하는 방법에 대해서도 설명합니다.
+  #### 단원
+  - Windows Server 2016의 컨테이너 개요.
+  - 컨테이너 준비
+  - Docker를 사용한 컨테이너 설치, 구성 및 관리
+
+
+  #### 랩 &#58; 컨테이너 설치 및 구성
+  - Windows Server 2016 용 Docker Enterprise Edition 설치
+  - IIS 컨테이너 설치 및 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2016의 컨테이너 설명.
+  - 컨테이너 배포 방법 설명.
+  - Docker를 사용하여 컨테이너를 설치, 구성 및 관리하는 방법을 설명하십시오.
+
+
+  ### 모듈 11&#58; 장애 조치 클러스터링 구현
+  본 모듈에서는 장애조치 클러스터링을 구현하여 네트워크 서비스 및 애플리케이션에 고가용성을 제공하는 방법을 설명합니다.
+  #### 단원
+  - 장애 조치 클러스터링 개요
+  - 장애 조치 클러스터 구현
+  - 장애 조치 클러스터에서 고가용성 애플리케이션 및 서비스 구성
+  - 장애 조치 클러스터 유지 관리
+  - 확장 클러스터 구현
+
+
+  #### 랩 &#58; 장애 조치 클러스터링 구현
+  - iSCSI 저장소 구성
+  - 장애 조치 클러스터 구성
+  - 고가용성 파일 서버 배포 및 구성
+  - 고가용성 파일 서버 배포 확인
+  - 장애 조치 클러스터에서 CAU 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 장애 조치 클러스터링의 개념 설명.
+  - 장애 조치 클러스터 구현.
+  - 장애 조치 클러스터에서 고가용성 애플리케이션 및 서비스 구성.
+  - 장애 조치(failover) 클러스터 유지 관리.
+  - 확장 - 장애 조치 클러스터 구현.
+
+
+  ### 모듈 12&#58; Windows Server 2016 Hyper-V로 장애 조치 클러스터링 구현
+  본 모듈에서는 장애 조치 클러스터에 Hyper-V 가상 머신을 배포하고 관리하는 방법을 설명합니다.
+  #### 단원
+  - Hyper-V Server 2016과 장애 조치 클러스터링 통합 개요
+  - 장애 조치 클러스터에 Hyper-V 가상 머신 구현.
+  - Windows Server 2016 Hyper-V 가상 머신 마이그레이션 구현
+  - Hyper-V 복제본 구현
+
+
+  #### 랩 &#58; Windows Server 2016 Hyper-V로 장애 조치 클러스터링 구현
+  - Hyper-V 장애 조치 클러스터링 테스트 환경
+  - Hyper-V 복제본 구성
+  - Hyper-V 용 장애 조치 클러스터 구성
+  - 고가용성 가상 머신 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Windows Server 2016 Hyper-V를 장애 조치 클러스터링과 통합하는 방법 설명.
+  - 장애 조치 클러스터에 Hyper-V 가상 머신 구현.
+  - Hyper-V 가상 머신 마이그레이션 구현.
+  - Hyper-V 복제본 구현.
+

@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Word 2010 Expert
+metadata:
+  title: 'Exam 77-887: Word 2010 Expert'
+  description: 'Exam 77-887: Word 2010 Expert'
+uid: exam.77-887
+displayName: 77-887
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  전문가 수준의 Microsoft Word 2010 사용자는 특징 및 기능 수준에서 능숙하고 자신있게 Word 2010 소프트웨어를 사용할 수 있습니다. 전문가는 Word 2010의 고급 기능을 사용하여 전문적인 문서를 향상시키고, 게시할 준비가 된 문서를 만들고, 그룹 편집 프로젝트에 효과적으로 공동 작업합니다. 전문가는 Word 옵션을 조작하여 다양한 요구 사항을 충족시키고 생산성을 향상시킬 수 있도록 환경을 사용자 정의합니다.
+subTitle: 전문가 수준의 Microsoft Word 2010 사용자는 특징 및 기능 수준에서 능숙하고 자신있게 Word 2010 소프트웨어를 사용할 수 있습니다. 전문가는 Word 2010의 고급 기능을 사용하여 전문적인 문서를 향상시키고, 게시할 준비가 된 문서를 만들고, 그룹 편집 프로젝트에 효과적으로 공동 작업합니다. 전문가는 Word 옵션을 조작하여 다양한 요구 사항을 충족시키고 생산성을 향상시킬 수 있도록 환경을 사용자 정의합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-887&examname=Word%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-887
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- 문서 공유 및 유지보수 (15-20%)
+- 내용 서식 지정 (25-30%)
+- 문서 추적 및 참조 (20-25%)
+- 메일 병합 작업 수행 (15–20%)
+- 매크로 및 양식 관리(25-30%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

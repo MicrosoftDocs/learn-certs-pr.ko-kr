@@ -5,7 +5,7 @@ metadata:
   description: 'Course MS-700T00-A: Managing Microsoft Teams'
 uid: course.ms-700t00
 courseNumber: 'MS-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Microsoft Teams란 무엇이며 구성 요소가 함께 작동하는 방식
@@ -52,7 +52,7 @@ outlineSection: |-
   - Microsoft Teams 관리 개요
 
 
-  #### 랩&#58; 역할 관리 및 팀 생성
+  #### 랩 &#58; 역할 관리 및 팀 생성
   - 팀 역할 및 라이선스 준비
   - 새 팀 생성
 
@@ -85,7 +85,7 @@ outlineSection: |-
   - 팀 리소스 제공
 
 
-  ### 모듈 4&#58; 팀 배포 및 관리
+  ### 모듈 4 &#58; 팀 배포 및 관리
   팀을 배치 및 관리할 때 팀 생성 및 관리, 내부 및 외부 사용자 모두의 구성원 자격 및 액세스 관리 방법에 대해 배우게 됩니다.
   #### 단원
   - 팀 생성 및 관리
@@ -123,3 +123,4 @@ outlineSection: |-
   - 미팅 정책 구성
   - Microsoft Teams을 위한 전화 시스템 관리
   - 오디오, 비디오 및 클라이언트 문제 해결
+

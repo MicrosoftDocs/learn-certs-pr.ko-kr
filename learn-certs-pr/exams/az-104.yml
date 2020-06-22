@@ -5,7 +5,18 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>\r\n  \r\nAzure Administrator는 클라우드 환경에서 ID, 거버넌스, 저장소, 컴퓨팅 및 가상 네트워크를 구현, 관리 및 모니터링합니다. Azure 관리자는 리소스를 프로비저닝, 크기 조정, 모니터링하여 적절히 조정합니다.\r\n\r\n응시자는 Azure 관리 실무 경험이 최소 6개월은 있어야 합니다. 응시자는 핵심 Azure 서비스, Azure 워크로드, 보안 및 거버넌스를 잘 알고 있어야 합니다. 본 시험의 응시자는 PowerShell, 명령줄 인터페이스, Azure Portal 및 ARM 템플릿 사용 경험이 있어야 합니다.\r\n\r\n<div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">유용성과 중요성에 대해 자세히 알아보십시오</a>.</div>"
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  본 시험의 응시자는 조직의 Microsoft Azure 환경을 구현, 관리 및 모니터링하는 실무 전문 지식을 갖추고 있어야 합니다.
+
+  Azure 관리자는 클라우드 환경에서 ID, 거버넌스, 스토리지, 컴퓨팅 및 가상 네트워크를 구현, 관리 및 모니터링하고 필요한 경우 리소스를 프로비전, 크기 조정, 모니터 및 조정하는 업무를 담당합니다.
+
+  Azure 관리자는 종종 조직의 클라우드 인프라 구현을 전담하는 대규모 팀의 일원으로 활동합니다.
+
+  본 시험의 응시자는 핵심 Azure 서비스, Azure 워크로드, 보안 및 거버넌스를 완전히 이해하고 최소 6개월 Azure를 관리한 실무 경험이 있어야 합니다. 또한 본 역할은 PowerShell, Azure CLI, Azure Portal 및 Azure Resource Manager 템플릿을 사용한 경험이 있어야 합니다.
+
+  <div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의  유용성과<a href="/learn/certifications/certification-exams#participating-in-beta-exams"> 중요성에 대해 자세히 알아보십시오</a>.</div>
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. Azure ID 및 거버넌스 관리, 저장소 구현 및 관리, Azure 컴퓨팅 리소스 배포 및 관리, 가상 네트워크 구성 및 관리, Azure 리소스 모니터링 및 백업.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -19,25 +30,21 @@ skills:
 - 저장소 구현 및 관리 (10-15%)
 - Azure 컴퓨팅 리소스 배포 및 관리 (25-30%)
 - 가상 네트워킹 구성 및 관리 (30-35%)
-- Azure 리소스 모니터링 및 백업 (10-15%)
+- Azure 리소스 모니터링 및 백업 (10 -15%)
 roles:
 - administrator
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
@@ -48,17 +55,17 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

@@ -6,8 +6,8 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험의 내용은 2020년 5월 28일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
+  <div><div style='color&#58; red;'>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 28월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
   </div>
 
   본 시험의 응시자는 조직의 Microsoft Teams 관리자입니다. Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리합니다.
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 5월 28일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 본 시험 내용은 2020년 5년 28월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
 - Microsoft Teams 환경 계획 및 구성 (45-50%)
 - 채팅, 통화, 및 회의 관리 (30-35%)
 - Teams 및 앱 정책 관리 (20-25%)
@@ -54,17 +54,17 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

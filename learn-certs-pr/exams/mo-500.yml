@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft Access Expert (Access and Access 2019)
+metadata:
+  title: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+  description: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+uid: exam.mo-500
+displayName: MO-500
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  본 시험에서는 테이블, 관계, 데이터 입력 양식, 다중 수준 보고서 및 다중 테이블 쿼리를 포함한 Access 데이터베이스 개체를 만들고 유지하는 능력을 다룹니다. 응시자는 Access의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
+subTitle: 본 시험은 데이터베이스 설계 원칙의 역량을 측정합니다. 시험에서는 테이블, 관계, 데이터 입력 양식, 다중 수준 보고서 및 다중 테이블 쿼리를 포함한 Access 데이터베이스 개체를 만들고 유지하는 능력을 다룹니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n2bY
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- advanced
+skills:
+- 데이터베이스 관리(15-20%)
+- 테이블 작성 및 수정(25–30%)
+- 쿼리 작성 및 수정(25–30%)
+- 레이아웃 뷰의 양식 수정(10-15%)
+- 레이아웃 뷰의 보고서 수정(10-15%)
+roles:
+- business-user
+products:
+- office
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.mos-access-expert-2019
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md
+

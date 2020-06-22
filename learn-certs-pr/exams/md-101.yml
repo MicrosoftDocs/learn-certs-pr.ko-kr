@@ -1,69 +1,72 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: '시험 MD-101: Managing Modern Desktops'
-  description: '시험 MD-101: Managing Modern Desktops'
+  title: 'Exam MD-101: Managing Modern Desktops'
+  description: 'Exam MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: >-
-  2019년 3월 31일 시험이 만료되기 전에 [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) 을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다. 본 시험은 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리, 모니터링하는 관리자를 대상으로 실시됩니다. 응시자는 ID, 액세스, 정책, 업데이트 및 앱을 관리하는 능력을 측정받습니다.
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
 
+  2019년 3월 31일 시험이 만료되기 전에 [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) 을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다. 본 시험은 엔터프라이즈 환경에서 장치 및 클라이언트 애플리케이션을 배포, 구성, 보안, 관리, 모니터링하는 관리자를 대상으로 실시됩니다. 응시자는 ID, 액세스, 정책, 업데이트 및 앱을 관리하는 능력을 측정받습니다.
   <br/>
-
 
   관리자로서, 응시자는 일반적으로 Microsoft 365 Enterprise Administrator와 협력하여 현대적인 조직에서 요구하는 비즈니스 요구 사항을 충족시키는 장치 전략을 설계 및 구현하게 됩니다.
 
-  <br/>
-
-
   응시자는 Microsoft 365 워크로드에 익숙해야하며 Windows 10 및 비 Windows 장치 및 기술의 배포, 구성, 유지 관리에 능숙하여야 하며, 관련 경험을 갖추어야 합니다.
-subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 운영 체제 배포 및 업데이트, 정책 및 프로필 관리, 장치 관리 및 보호, 앱 및 데이터 관리. 2019년 3월 31일 시험이 만료되기 전에 시험 70-698을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다.
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 운영 체제 배포 및 업데이트, 정책 및 프로필 관리, 장치 관리 및 보호, 앱 및 데이터 관리. 2019년 3월 31일 시험이 만료되기 전에 Exam 70-698을 통과했다면, MD-101만 치르면 최신 데스크탑 인증을 받을 수 있습니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MD-101&examname=시험%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
-- 운영 체제 배포 및 업데이트 (15-20%)
-- 정책 및 프로필 관리 (35-40%)
-- 장치 관리 및 보호 (15-20%)
-- 앱 및 데이터 관리 (25-30%)
+- 운영 체제 배포 및 업데이트 (35-40%)
+- 정책 및 프로필 관리 (25-30%)
+- 장치 관리 및 보호 (20-25%)
+- 앱 및 데이터 관리 (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.md-100
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-100
 courses:
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-101t00
+paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
 resources:
-- title: 인증서 학습 과정
+- title: 인증서 학습 경로
   description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

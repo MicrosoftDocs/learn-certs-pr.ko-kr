@@ -1,13 +1,13 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOps Solutions
+title: Designing and Implementing Microsoft DevOps Solutions
 metadata:
-  title: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
-  description: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험의 내용은 2020년 6월 15일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
+  <div><div style='color&#58; red;'>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험의 내용은 2020년 6월 15일 월요일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
   </div>
 
   본 시험의 응시자는 인력과 프로세스, 기술력을 결합하여 최종 요구와 비즈니스 목적을 만족시키는 가치있는 상품과 서비스를 계속적으로 제공하는 DevOps 전문가들입니다. DevOps 전문가는 관행을 최적화하고, 의사소통과 협력을 향상시키며, 자동화를 생성하여 전달을 간소화합니다. 지속적인 통합, 테스팅, 배포, 모니터링 및 피드백을 가능하게 하는 애플리케이션 코드 및 인프라 전략을 설계 및 구현합니다.
@@ -17,7 +17,7 @@ subTitle: '본 시험은 DevOps 전략을 설계하고 다음을 구현하는 �
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -26,14 +26,14 @@ locales:
 levels:
 - advanced
 skills:
-- 본 시험의 내용은 2020년 6월 15일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 본 시험의 내용은 2020년 6월 15일 월요일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.'
 - DevOps 전략 설계 (20-25%)
 - DevOps 개발 프로세스 구현 (20-25%)
-- 지속적 통합 구현 (10-15%)
-- 지속적 배포 구현 (10-15%)
-- 의존성 관리 구현 (5-10%)
+- 연속 통합 구현 (10-15%)
+- 지속적인 업데이트 구현 (10-15%)
+- 종속성 관리 구현 (5-10%)
 - 애플리케이션 인프라 구현 (15-20%)
-- 지속적 피드백 구현 (10-15%)
+- 지속적인 피드백 구현 (10-15%)
 roles:
 - devops-engineer
 products:
@@ -49,37 +49,31 @@ paths:
 - uid: learn.azdo.automate-deployments-azure-devops
 - uid: learn.azdo.capture-feedback-monitoring
 courses:
-- uid: course.az-400t01
-- uid: course.az-400t02
-- uid: course.az-400t03
-- uid: course.az-400t04
-- uid: course.az-400t05
-- uid: course.az-400t06
-- uid: course.az-400t07
+- uid: course.az-400t00
 relatedCertifications:
 - related:
-    uid: certification.azure-devops
+    uid: certification.devops-engineer
 resources:
-- title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure DevOps Engineer Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
+- title: 인증으로의 여정
+  description: DevOps Engineer Expert 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

@@ -2,11 +2,20 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Microsoft Azure Solutions Architect는 Azure에서 실행되는 솔루션을 설계하기 위한 컴퓨팅, 네트워크, 저장소 및 보안 분야의 전문 지식을 갖추고 있어야 합니다.
+  description: 'Azure Solution 설계자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같은 측면을 포함하여 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현합니다.'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Microsoft Azure Solutions Architect는 Azure에서 실행되는 솔루션을 설계하기 위한 컴퓨팅, 네트워크, 저장소 및 보안 분야의 전문 지식을 갖추고 있어야 합니다.
-subTitle: Microsoft Azure Solutions Architect는 Azure에서 실행되는 솔루션을 설계하기 위한 컴퓨팅, 네트워크, 저장소 및 보안 분야의 전문 지식을 갖추고 있어야 합니다.
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
+  Azure Solutions Architect Expert 인증을 위한 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 실무 전문 지식을 갖추고 있어야 합니다.
+
+  본 역할은 이해 관계자에게 조언하고 비즈니스 요구사항을 안전하고 확장 가능하며 신뢰할 수 있는 클라우드 솔루션으로 변환하는 업무를 담당합니다.
+
+  Azure Solution Architect는 클라우드 관리자, 클라우드 DBA 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
+
+  본 인증의 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 관리, 예산 책정 및 거버넌스 등 IT 운영의 다양한 측면에 대한 고급 경험과 지식을 갖추어야 하며 각 분야에서의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다. 또한 해당 역할은 관리, 개발 또는 DevOps를 포함하는 Azure 지식 영역 중 하나 이상에 능숙해야 합니다.
+subTitle: Azure Solution 설계자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같은 측면을 포함하여 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현합니다.
 levels:
 - advanced
 skills:
@@ -14,7 +23,7 @@ skills:
 - 워크로드 및 보안 구현
 - 앱 작성 및 배포
 - 인증 및 보안 데이터 구현
-- Cloud 및 Azure 저장소 개발
+- 클라우드 및 Azure 저장소 개발
 - 워크로드 요구 사항 결정
 - ID 및 보안을 위한 설계
 - 데이터 플랫폼 솔루션 설계
@@ -71,21 +80,22 @@ exams:
 - uid: exam.az-300
 - uid: exam.az-301
 resources:
-- title: 인증서 학습 과정
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

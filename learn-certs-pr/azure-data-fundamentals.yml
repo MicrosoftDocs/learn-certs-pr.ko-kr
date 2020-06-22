@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Data Fundamentals'
+  description: 본 인증은 2020년 6월 8일 또는 그 즈음에 사용할 수 있습니다. Azure Data Fundamentals은 핵심 데이터 개념에 대한 기초 지식과 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 검증합니다.
+uid: certification.azure-data-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  Azure Data Fundamentals 응시자는 핵심 데이터 개념에 대한 기초 지식을 갖추고 있어야 하며 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 알고 있어야 합니다.  
+
+  본 인증은 클라우드에서 데이터를 사용하기 시작하는 응시자를 대상으로 합니다.  
+
+  응시자는 관계형 및 비관계형 데이터의 개념과 트랜잭션 또는 분석과 같은 다양한 유형의 데이터 워크로드에 익숙해야 합니다.  
+
+  Azure Data Fundamentals는 Azure Database Administrator Associate 또는 Azure Data Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 인증에 대한 필수 조건은 아닙니다.  
+
+  <div><br/><strong>참고&#58;본 인증은 2020년 6월 8일 또는 그 즈음에 사용할 수 있습니다.</strong></div>
+subTitle: 본 인증은 2020년 6월 8일 또는 그 즈음에 사용할 수 있습니다. Azure Data Fundamentals은 핵심 데이터 개념에 대한 기초 지식과 Microsoft Azure 데이터 서비스를 사용하여 이를 구현하는 방법을 검증합니다.
+levels:
+- beginner
+skills:
+- 핵심 데이터 개념 설명
+- Azure에서 관계형 데이터로 작업하는 방법 설명
+- Azure에서 비관계형 데이터로 작업하는 방법 설명
+- Azure에서 분석 워크로드 설명
+roles:
+- data-engineer
+- database-administrator
+type: fundamentals
+products:
+- azure
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
+exams:
+- uid: exam.dp-900
+resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

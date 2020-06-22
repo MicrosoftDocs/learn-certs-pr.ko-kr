@@ -6,8 +6,12 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 20월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  </div>
+
   이 시험의 응시자는 AI cloud 기반과 하이브리드 AI 솔루션에서 요구하는 사항을 분석하고, 적합한 도구와 기술을 추천하며, 확장성 및 성능 요구 사항에 부합하는 솔루션을 구현하여야 합니다.
-  <br/>
 
   응시자들은 솔루션 설계자의 비전을 번역하고 데이터 과학자, 데이터 엔지니어, IoT 전문가, AI 개발자들과 협력하여 완벽한 엔드 투 엔드 솔루션을 구축합니다. 응시자들은 Microsoft Azure Cognitive Service와 Azure Bot Service를 사용하는 AI 앱과 에이전트를 설계하고 구현합니다. 응시자들은 오픈소스 기술을 사용하는 솔루션을 추천할 수 있습니다.
 
@@ -17,7 +21,7 @@ summary: |-
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 솔루션 요구 사항 분석, 솔루션 디자인, AI 모델을 솔루션에 통합, 솔루션 배포 및 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -26,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
+- 본 시험 내용은 2020년 5년 20월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
 - 솔루션 요구 사항 분석 (25-30%)
 - AI 솔루션 설계 (40-45%)
 - AI 솔루션 구현 및 모니터링 (25-30%)
@@ -50,14 +54,17 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
+- title: 인증으로의 여정
+  description: Azure AI Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
@@ -66,8 +73,9 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

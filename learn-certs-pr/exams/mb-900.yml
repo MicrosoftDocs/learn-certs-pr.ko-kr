@@ -6,8 +6,11 @@ metadata:
 uid: exam.mb-900
 displayName: MB-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>본 시험 내용은 2019년 12월 31일 중단되었습니다. 참고: 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다</div>
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2019년 12월 31일 중단되었습니다. 대체 시험 MB-901을 사용할 수도 있습니다. 자세한 내용을 보려면 을 방문하시기 바랍니다&#58; <a href="/learn/certifications/exams/mb-901">MB-901 exam details page</a>.</div>
   <br/>
+  </div>
   본 시험은 Microsoft Dynamics 365, Power Platform 애플리케이션과 클라우드 컴퓨팅 모델에 관한 기초적인 수준의 지식을 입증하고자 하는 응시자를 위해 설계되었습니다. 시험 범위에는 Dynamics 365, Power Platform 및 일반적인 클라우드 서비스를 도입할 때 고려할 사항 및 혜택이 포함됩니다. 이 시험은 Dynamics 365 인증 및 교육의 선행 조건으로 응시할 수 있습니다.
 
   이 시험의 응시자는 IT(정보 기술) 환경에서 일반적인 지식 또는 관련 실무 경험을 갖추고 있어야 합니다. 응시자는 또한 기본적인 수준의 비즈니스 시나리오 및 비즈니스, 법률, IT 프로젝트에 필요한 보안 요구사항을 처리한 경험을 갖추고 있어야 합니다.
@@ -27,7 +30,7 @@ skills:
 retirementDate: 12/31/2019
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -53,8 +56,9 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

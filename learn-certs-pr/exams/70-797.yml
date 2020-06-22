@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Configuring Windows Devices (pilot)
+metadata:
+  title: 'Exam 70-797: Configuring Windows Devices (pilot)'
+  description: 'Exam 70-797: Configuring Windows Devices (pilot)'
+uid: exam.70-797
+displayName: 70-797
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  이 시험에서는 응시자가 회사 포털과 Windows 스토어를 사용한 안전한 ID 작성, 콘텐츠 보호(데이터 손실 방지), 모바일 장치 관리 정책, Hyper-V를 통한 가상화, 응용 프로그램 관리와 관련된 필수 지식과 기술을 갖추고 있는지 검증합니다. 응시자는 Windows 10 보안과 통합된 Azure 기능에 대한 평가를 받게 됩니다.
+
+  실무 경험 이외에 이 시험의 응시자는 다음 기술적 지식을 갖추어야 합니다&#58;
+
+  - Windows 데스크톱 관리, 유지 관리 및 문제 해결에 대한 경험
+  - Windows 네트워킹 기술에 대한 기본적인 경험과 이해
+  - 액티브 디렉터리 및 Microsoft Intune에 대한 기초 수준의 지식
+
+  응시자는 Windows 장치 지원 기술자 또는 Windows 장치 시스템 관리자로서의 실무 경험을 통해 동등한 지식과 기술을 확보함으로써 이 시험에 응시하고 필수 구성 요소를 충족할 수 있습니다.
+subTitle: 이 시험에서는 응시자가 회사 포털과 Windows 스토어를 사용한 안전한 ID 작성, 콘텐츠 보호(데이터 손실 방지), 모바일 장치 관리 정책, Hyper-V를 통한 가상화, 응용 프로그램 관리와 관련된 필수 지식과 기술을 갖추고 있는지 검증합니다. 응시자는 Windows 10 보안과 통합된 Azure 기능에 대한 평가를 받게 됩니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+locales:
+- en
+levels:
+- beginner
+skills:
+- ID 관리(13%)
+- 데스크톱 및 장치 배포 계획(13%)
+- Microsoft Intune 장치 관리 솔루션 계획 및 구현(11%)
+- 네트워킹 구성(11%)
+- 저장소 구성(10%)
+- 데이터 액세스 및 보호 관리(11%)
+- 원격 액세스 관리(10%)
+- 앱 관리(11%)
+- 업데이트 및 복구 관리(10%)
+roles:
+- administrator
+products:
+- windows
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

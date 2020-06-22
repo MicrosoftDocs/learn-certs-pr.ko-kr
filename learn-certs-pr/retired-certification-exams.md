@@ -15,63 +15,67 @@ ms.author: micsullivan
 
 | 2021년 1월 31일 일요일 중단 예정 | |
 | --- | --- |
-| [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
-| [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
-| [70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016 |  |
-| [70-345](https://www.microsoft.com/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016 |  |
-| [70-357](https://www.microsoft.com/learning/exam-70-357.aspx): Developing Mobile Apps |  |
-| [70-410](https://www.microsoft.com/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012 |  |
-| [70-411](https://www.microsoft.com/learning/exam-70-411.aspx): Administering Windows Server 2012 |  |
-| [70-412](https://www.microsoft.com/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services  |  |
-| [70-413](https://www.microsoft.com/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure |  |
-| [70-414](https://www.microsoft.com/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure |  |
-| [70-417](https://www.microsoft.com/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012 |  |
-| [70-461](https://www.microsoft.com/learning/exam-70-461.aspx): Querying Microsoft SQL Server 2012/2014 |  |
-| [70-462](https://www.microsoft.com/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012/2014 Databases |  |
-| [70-463](https://www.microsoft.com/learning/exam-70-463.aspx): Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 |  |
-| [70-464](https://www.microsoft.com/learning/exam-70-464.aspx): Developing Microsoft SQL Server Databases |  |
-| [70-465](https://www.microsoft.com/learning/exam-70-465.aspx): Designing Database Solutions for Microsoft SQL Server |  |
-| [70-466](https://www.microsoft.com/learning/exam-70-466.aspx): Implementing Data Models and Reports with Microsoft SQL Server |  |
-| [70-467](https://www.microsoft.com/learning/exam-70-467.aspx): Designing Business Intelligence Solutions with Microsoft SQL Server |  |
-| [70-480](https://www.microsoft.com/learning/exam-70-480.aspx): Programming in HTML5 with JavaScript and CSS3 |  |
-| [70-483](https://www.microsoft.com/learning/exam-70-483.aspx): Programming in C# |  |
-| [70-486](https://www.microsoft.com/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications |  |
-| [70-487](https://www.microsoft.com/learning/exam-70-487.aspx): Developing Microsoft Azure and Web Services |  |
-| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub |  |
-| [70-705](https://www.microsoft.com/learning/exam-70-705.aspx): Designing and Providing Microsoft Licensing Solutions to Large Organizations |  |
-| [70-740](https://www.microsoft.com/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016 |  |
-| [70-741](https://www.microsoft.com/learning/exam-70-741.aspx): Networking with Windows Server 2016 |  |
-| [70-742](https://www.microsoft.com/learning/exam-70-742.aspx): Identity with Windows Server 2016 |  |
-| [70-743](https://www.microsoft.com/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016 |  |
-| [70-744](https://www.microsoft.com/learning/exam-70-744.aspx): Securing Windows Server 2016 |  |
-| [70-745](https://www.microsoft.com/learning/exam-70-745.aspx): Implementing a Software-Defined Datacenter |  |
-| [70-761](https://www.microsoft.com/learning/exam-70-761.aspx): Querying Data with Transact-SQL |  |
-| [70-762](https://www.microsoft.com/learning/exam-70-762.aspx): Developing SQL Databases |  |
-| [70-764](https://www.microsoft.com/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure |  |
-| [70-765](https://www.microsoft.com/learning/exam-70-765.aspx): Provisioning SQL Databases |  |
-| [70-767](https://www.microsoft.com/learning/exam-70-767.aspx): Implementing a Data Warehouse using SQL |  |
-| [70-768](https://www.microsoft.com/learning/exam-70-768.aspx): Developing SQL Data Models |  |
-| [70-777](https://www.microsoft.com/learning/exam-70-777.aspx): Implementing Microsoft Azure Cosmos DB Solutions |  |
-| [70-778](https://www.microsoft.com/learning/exam-70-778.aspx): Analyzing and Visualizing Data with Power BI |  |
-| [70-779](https://www.microsoft.com/learning/exam-70-779.aspx): Analyzing and Visualizing Data with Microsoft Excel |  |
-| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration |  |
-| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
-| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
-| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
+| [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 | |
+| [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 | |
+| [70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016 | |
+| [70-345](https://www.microsoft.com/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016 | |
+| [70-357](https://www.microsoft.com/learning/exam-70-357.aspx): Developing Mobile Apps | |
+| [70-410](https://www.microsoft.com/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012 | |
+| [70-411](https://www.microsoft.com/learning/exam-70-411.aspx): Administering Windows Server 2012 | |
+| [70-412](https://www.microsoft.com/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services | |
+| [70-413](https://www.microsoft.com/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure | |
+| [70-414](https://www.microsoft.com/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure | |
+| [70-417](https://www.microsoft.com/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012 | |
+| [70-461](https://www.microsoft.com/learning/exam-70-461.aspx): Querying Microsoft SQL Server 2012/2014 | |
+| [70-462](https://www.microsoft.com/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012/2014 Databases | |
+| [70-463](https://www.microsoft.com/learning/exam-70-463.aspx): Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 | |
+| [70-464](https://www.microsoft.com/learning/exam-70-464.aspx): Developing Microsoft SQL Server Databases | |
+| [70-465](https://www.microsoft.com/learning/exam-70-465.aspx): Designing Database Solutions for Microsoft SQL Server | |
+| [70-466](https://www.microsoft.com/learning/exam-70-466.aspx): Implementing Data Models and Reports with Microsoft SQL Server | |
+| [70-467](https://www.microsoft.com/learning/exam-70-467.aspx): Designing Business Intelligence Solutions with Microsoft SQL Server | |
+| [70-480](https://www.microsoft.com/learning/exam-70-480.aspx): Programming in HTML5 with JavaScript and CSS3 | |
+| [70-483](https://www.microsoft.com/learning/exam-70-483.aspx): Programming in C# | |
+| [70-486](https://www.microsoft.com/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications | |
+| [70-487](https://www.microsoft.com/learning/exam-70-487.aspx): Developing Microsoft Azure and Web Services | |
+| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub | |
+| [70-705](https://www.microsoft.com/learning/exam-70-705.aspx): Designing and Providing Microsoft Licensing Solutions to Large Organizations | |
+| [70-740](https://www.microsoft.com/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016 | |
+| [70-741](https://www.microsoft.com/learning/exam-70-741.aspx): Networking with Windows Server 2016 | |
+| [70-742](https://www.microsoft.com/learning/exam-70-742.aspx): Identity with Windows Server 2016 | |
+| [70-743](https://www.microsoft.com/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016 | |
+| [70-744](https://www.microsoft.com/learning/exam-70-744.aspx): Securing Windows Server 2016 | |
+| [70-745](https://www.microsoft.com/learning/exam-70-745.aspx): Implementing a Software-Defined Datacenter | |
+| [70-761](https://www.microsoft.com/learning/exam-70-761.aspx): Querying Data with Transact-SQL | |
+| [70-762](https://www.microsoft.com/learning/exam-70-762.aspx): Developing SQL Databases | |
+| [70-764](https://www.microsoft.com/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure | |
+| [70-765](https://www.microsoft.com/learning/exam-70-765.aspx): Provisioning SQL Databases | |
+| [70-767](https://www.microsoft.com/learning/exam-70-767.aspx): Implementing a Data Warehouse using SQL | |
+| [70-768](https://www.microsoft.com/learning/exam-70-768.aspx): Developing SQL Data Models | |
+| [70-777](https://www.microsoft.com/learning/exam-70-777.aspx): Implementing Microsoft Azure Cosmos DB Solutions | |
+| [70-778](https://www.microsoft.com/learning/exam-70-778.aspx): Analyzing and Visualizing Data with Power BI | |
+| [70-779](https://www.microsoft.com/learning/exam-70-779.aspx): Analyzing and Visualizing Data with Microsoft Excel | |
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration | |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | |
+| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail | |
+| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent | |
 
-| 2020년 9월 30일 중단 예정 | |
+| 2020년 9월 30일 수요일 중단 예정 | |
 | --- | --- |
-| [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
-| [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
+| [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies | |
+| [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design | |
 
-| 2020년 8월 31일 월요일 중단 예정 | |
+| 2020년 8월 31일 중단 예정 | |
 | --- | --- |
-| [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
-| [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform | |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform | |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork | |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid | |
+| [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator | |
+| [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure | |
 
 | 2020년 6월 30일 중단 예정 | |
 | --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 | |
 
 ## 최근 중단된 시험
 
@@ -259,7 +263,7 @@ ms.author: micsullivan
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 2016년 7월 31일
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016년 1월 31일
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016년 1월 31일
-| 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일 금요일
+| 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일
 | 70-470 | Recertification for MCSE: Business Intelligence | 2017년 3월 31일 금요일
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 2016년 9월 30일
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 2016년 9월 30일
@@ -392,7 +396,7 @@ ms.author: micsullivan
 | 74-139 | Deploying Business Desktops with Microsoft Windows Server 2003 and Microsoft Office 2003 | 2010년 10월 31일
 | 74-322 | Microsoft Lync Server 2010—Advanced Design and Deployment | 2015년 7월 31일
 | 74-324 | Administering Office 365 for Small Businesses | 2013년 8월 24일
-| 74-325 | Administering Office 365 for Small Businesses | 2015년 1월 31일 
+| 74-325 | Administering Office 365 for Small Businesses | 2015년 1월 31일 토요일
 | 74-335 | Lync Network Readiness Assessment | 2016년 3월 30일
 | 74-338 | Lync 2013 Depth Support Engineer | 2016년 3월 30일
 | 74-353 | Windows UX Design | 2015년 1월 31일
@@ -410,13 +414,13 @@ ms.author: micsullivan
 | 88-961 | MCM: SharePoint Server 2010: 1 주 | 2013년 8월 25일
 | 88-962 | MCM: SharePoint Server 2010: 2 주 | 2013년 8월 25일
 | 88-963 | MCM: SharePoint Server 2010: 3 주 | 2013년 8월 25일
-| 88-972 | MCM: SharePoint Server 2010: 실험실 시험 | 2013년 8월 25일
+| 88-972 | MCM: SharePoint Server 2010: Lab Exam | 2013년 8월 25일 일요일
 | 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 2013년 8월 25일
 | 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 2014년 1월 1일
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014년 1월 1일
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014년 1월 1일
 | 88-969 | Lync Server 2010 Lab Exam | 2014년 1월 1일
-| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013년 12월 31일 
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013년 12월 31일 화요일
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 2014년 1월 1일
 | 98-362 | Windows Development Fundamentals | 2014년 7월 31일
 | 98-363 | Web Development Fundamentals | 2015년 7월 31일
@@ -465,14 +469,14 @@ ms.author: micsullivan
 | MB3-637 | GP 10.0 Manufacturing Applications | 2013년 12월 31일
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 2015년 7월 31일
 | MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015년 7월 31일 금요일
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일 
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일 
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014년 12월 31일
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일 
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일 수요일
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일 수요일
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014년 12월 31일 수요일
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일 수요일
 | MB4-348 | SL 6.5 Financials | 2011년 3월 31일
 | MB4-349 | SL 6.5 Installation & Configuration | 2011년 3월 31일
-| MB4-534 | SL 7.0 Installation & Configuration | 2013년 12월 31일 
-| MB4-535 | SL 7.0 Financials | 2013년 12월 31일 
+| MB4-534 | SL 7.0 Installation & Configuration | 2013년 12월 31일 화요일
+| MB4-535 | SL 7.0 Financials | 2013년 12월 31일 화요일
 | MB4-536 | SL 7.0 Project Series | 2013년 12월 31일
 | MB4-640 | SL 7.0 Customization Manager | 2013년 12월 31일
 | MB4-641 | SL 7.0 Tools for VB | 2013년 12월 31일

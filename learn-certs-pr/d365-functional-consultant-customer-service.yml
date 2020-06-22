@@ -2,10 +2,13 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.
+  description: 'Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.
+summary: |-
+  <div><div style='color&#58; red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
+  Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.
 subTitle: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.
 levels:
 - intermediate
@@ -19,7 +22,7 @@ skills:
 - 구성 수행
 - 서비스 케이스 및 기술 자료 관리
 - 큐, 권리 유형 및 SLA(서비스 수준 계약) 관리
-- 고객의 소리 구성
+- forms-pro 구성
 roles:
 - functional-consultant
 type: role-based
@@ -49,21 +52,22 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-230
 resources:
-- title: 인증서 학습 과정
-  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
+- title: 인증서 학습 경로
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

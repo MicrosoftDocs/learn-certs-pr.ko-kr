@@ -7,8 +7,8 @@ uid: exam.dp-100
 displayName: DP-100
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험의 내용은 2020년 5월 22일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 22월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
   </div>
 
   Azure 데이터 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다. Azure의 데이터 과학 워크로드에 적합한 작업 환경 계획 및 생성, 데이터 실험 실행 및 예측 모델 훈련, 모델 관리 및 최적화 및 기계 학습 모델 제품에 배포를 수반합니다.
@@ -24,8 +24,8 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 5월 22일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.
-- Azure Machine Learning 작업 영역 설정 (30-35%)
+- 본 시험 내용은 2020년 5년 22월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- Azure Machine Learning 작업 영역 설정 (30 -35%)
 - 실험 실행 및 모델 훈련 (25-30%)
 - 모델 최적화 및 관리 (20-25%)
 - 모델 배포 및 사용 (20-25%)
@@ -48,17 +48,17 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

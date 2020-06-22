@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Word 2010
+metadata:
+  title: 'Exam 77-881: Word 2010'
+  description: 'Exam 77-881: Word 2010'
+uid: exam.77-881
+displayName: 77-881
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  핵심 수준의 Microsoft Office Word 2010 사용자는 특징 및 기능 수준에서 Microsoft Office Word 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Word 2010의 특징 및 기능 중 최소 80% 사용에 능숙하여야 하며 잘 알고 있어야 합니다. 핵심 사용자는 Microsoft Office Word 2010을 사용하여 다양한 목적과 상황에 맞게 전문적인 모양의 문서를 만들고 편집할 수 있어야 합니다. 사용자의 직업은 학생 및 개인 생활의 거의 모든 분야에서 다양한 직무 역할를 가진 사람들을 포함합니다.
+subTitle: 핵심 수준의 Microsoft Office Word 2010 사용자는 특징 및 기능 수준에서 Microsoft Office Word 2010 소프트웨어를 탐색할 수 있어야 합니다. Microsoft Office Word 2010의 특징 및 기능 중 최소 80% 사용에 능숙하여야 하며 잘 알고 있어야 합니다. 핵심 사용자는 Microsoft Office Word 2010을 사용하여 다양한 목적과 상황에 맞게 전문적인 모양의 문서를 만들고 편집할 수 있어야 합니다. 사용자의 직업은 학생 및 개인 생활의 거의 모든 분야에서 다양한 직무 역할를 가진 사람들을 포함합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-881&examname=Word%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-881
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 문서 공유 및 유지 관리
+- 내용 서식 지정
+- 페이지 레이아웃 및 재사용 가능한 컨텐츠 적용
+- 문서에 그림 및 그래픽 포함하기
+- 문서 교정
+- 참조 및 하이퍼링크 적용
+- 메일 병합 작업 수행
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

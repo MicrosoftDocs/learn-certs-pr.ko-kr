@@ -2,14 +2,18 @@
 title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: Dynamics 365 공급망 관리, 제작 기능 컨설턴트는 디지털 및 물리적 시스템을 통합하고 가시성, 제작의 효율성 및 유연성을 향상시키며 고객의 비용을 절감할 수 있습니다.
+  description: 'Dynamics 365 공급망 관리, 제작 기능 컨설턴트는 디지털 및 물리적 시스템을 통합하고 가시성, 제작의 효율성 및 유연성을 향상시키며 고객의 비용을 절감할 수 있습니다.'
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Dynamics 365 공급망 관리, 제작 기능 컨설턴트는 디지털 및 물리적 시스템을 통합하고 가시성, 제작의 효율성 및 유연성을 향상시키며 고객의 비용을 절감할 수 있습니다.
-subTitle: Dynamics 365 공급망 관리, 제작 기능 컨설턴트는 디지털 및 물리적 시스템을 통합하고 가시성, 제작의 효율성 및 유연성을 향상시키며 고객의 비용을 절감할 수 있습니다.
+summary: |-
+  <div><div style='color&#58; red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
+  Dynamics 365 공급망 관리, 제작 기능 컨설턴트는 디지털 및 물리적 시스템을 통합하고 가시성, 제작의 효율성 및 유연성을 향상시키며 고객의 비용을 절감할 수 있습니다.
+subTitle: 'Dynamics 365 공급망 관리, 제작 기능 컨설턴트는 디지털 및 물리적 시스템을 통합하고 가시성, 제작의 효율성 및 유연성을 향상시키며 고객의 비용을 절감할 수 있습니다.'
 levels:
 - intermediate
 skills:
+- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - 일반 기능 및 구현 도구 사용
 - 보안, 프로세스 및 선택 사항의 구성
 - 데이터 마이그레이션 수행
@@ -24,12 +28,8 @@ products:
 - dynamics
 - dynamics-finance-operations
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
-- uid: course.mb-320t01
-- uid: course.mb-320t02
-- uid: course.mb-320t03
+- uid: course.mb-300t00
+- uid: course.mb-320t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -45,21 +45,22 @@ exams:
 - uid: exam.mb-300
 - uid: exam.mb-320
 resources:
-- title: 인증서 학습 과정
-  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
+- title: 인증서 학습 경로
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

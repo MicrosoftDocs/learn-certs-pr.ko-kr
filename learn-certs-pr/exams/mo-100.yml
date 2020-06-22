@@ -5,24 +5,38 @@ metadata:
   description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: 이 인증을 획득한 개인은 약 150시간의 수업 및 제품 사용 경험을 가지고 있으며, 업계 관련 수준에서 능력이 입증되었으며, 업무 시장에 참여할 준비가 되어 있습니다. 그들은 Word의 주요 기능들의 정확한 적용을 입증할 수 있고 독립적으로 임무를 완성할 수 있습니다.
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  그 시험은 전문적으로 보이는 보고서, 다단기 뉴스레터, 이력서, 그리고 사업상의 서신들을 만들고 유지하는 능력을 다룹니다. 응시자는 Word의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
 subTitle: 이 시험은 다양한 목적과 상황에 맞게 문서를 작성하고 편집하여 Word의 주요 기능을 올바르게 적용하는 능력을 측정 합니다. 그 시험은 전문적으로 보이는 보고서, 다단기 뉴스레터, 이력서, 그리고 사업상의 서신들을 만들고 유지하는 능력을 다룹니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- id-id
+- ko
+- es
+- nl
+- ja
+- ru
+- fr
+- it
+- pt-br
 levels:
 - intermediate
 skills:
-- 문서 관리 (20-25%)
-- 텍스트, 문단 및 섹션 삽입 및 서식 지정 (20-25%)
-- 표 및 목록 관리 (15-20%)
-- 참고 문서 만들기 및 관리 (5-10%)
+- 문서 관리(20-25%)
+- 텍스트, 단락 및 구역 삽입 및 서식 지정(20~25%)
+- 표 및 목록 관리 (15 -20%)
+- 참조 만들기 및 관리 (5-10%)
 - 그래픽 요소 삽입 및 설정 (15-20%)
-- 문서 협업 관리 (5-10%)
+- 문서 협업 관리(5-10%)
 roles:
 - developer
 products:
@@ -33,14 +47,15 @@ relatedCertifications:
     uid: certification.mos-word-2019
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

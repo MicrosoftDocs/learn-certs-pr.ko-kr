@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
-  description: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
 
-  Dynamics 365의 Microsoft Power Apps 모델 기반 앱을 위한 솔루션 아키텍처는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중심을 둡니다.
+  Microsoft Dynamics 365 + Power Platform에 대한 솔루션 설계자는 성공적인 구현을 주도하고 솔루션이 조직의 광범위한 비즈니스 및 기술 요구사항을 해결하는 방법에 중심을 둡니다.
 
   솔루션 아키텍처는 Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing 및 Dynamics 365 Sales, 관련 Microsoft 클라우드 솔루션 및 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 아키텍처는 참여의 전 과정에 걸쳐 지식과 경험을 적용합니다. 솔루션 아키텍처는 사전에 예방적 작업을 수행하여 고객의 투자 가치를 높이고 조직 상태의 수준을 올립니다. 이 역할에는 비즈니스 문제를 해결할 기회를 식별할 수 있는 능력이 필요합니다.
 
-  솔루션 아키텍처는 Dynamics 365에서 Power Platform 및 모델 기반 앱의 기능 및 기술 분야에 걸 경험이 있어야 합니다. 솔루션 아키텍처는 개발, 구성, 통합, 인프라, 보안, 가용성, 스토리지 및 변경 관리 전반에서 디자인 결정을 쉽게 내릴 수 있어야 합니다. 이 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족시키는 것입니다.
-
-  <div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">유용성과 중요성에 대해 자세히 알아보십시오</a>.</div>
+  솔루션 아키텍처는 Dynamics 365에서 Power Platform 및 모델 기반 앱의 기능 및 기술 분야에 걸 경험이 있어야 합니다. 솔루션 아키텍처는 개발, 구성, 통합, 인프라, 보안, 가용성, 스토리지 및 변경 관리 전반에서 디자인 결정을 쉽게 내릴 수 있어야 합니다. 이 역할은 프로젝트의 비즈니스 요구 사항의 균형을 맞추는 동시에 기능적 및 비기능 요구 사항을 충족합니다.
 subTitle: '본 시험은 다음과 같은 기술적 작업을 수행할 수 있는 능력을 측정합니다: 솔루션 구상 및 요구사항 분석 수행, 솔루션 설계, 솔루션 구현.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - 솔루션 구상 및 요구사항 분석 수행 (30-35%)
 - 솔루션 설계 (45-50%)
 - 솔루션 구현 (20-25%)
@@ -42,7 +39,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
@@ -50,17 +47,17 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Microsoft Azure solutions for AWS developers
+metadata:
+  title: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+  description: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+uid: course.az-020t00
+courseNumber: 'AZ-020T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+- uid: exam.az-204
+summary: |-
+  AWS(Amazon Web Services) 개발자에게 Microsoft Azure에서 엔드투엔드 솔루션을 준비하는 방법을 가르치기 위해 마련된 3일간 과정입니다. 본 과정을 통해 Azure App Service 웹앱 솔루션 및 Azure Functions 구축, 솔루션에서 Blob 또는 Cosmos DB 스토리지 사용, 사용자 인증 및 권한 부여를 포함하는 보안 클라우드 솔루션 구현, API 관리 구현, 이벤트 및 메시지 기반 솔루션 개발, Azure 솔루션 모니터, 문제 해결 및 최적화 등을 수행합니다. AWS와 다른 기능 및 작업에 초점을 맞추고 개발자가 Azure 서비스를 사용하는 방법과 Azure 서비스를 사용하여 호스팅되는 애플리케이션을 개발할 때 사용자에게 어떤 의미가 있는지를 설명합니다.
+
+  #### 대상 그룹 프로필
+  본 과정의 수강생들은 Azure 개발에 관심이 있는 경험이 풍부한 AWS 개발자여야 합니다.
+prerequisitesSection: |-
+  학생들은 전문적인 개발과 Microsoft Azure 경험이 1~2년은 있어야 합니다. Azure 지원 언어로 프로그래밍 할 수 있어야 합니다.
+outlineSection: |-
+  ### 모듈 1&#58; Azure App Service Web Apps 생성
+  학생들은 Azure App Service 플랫폼에서 웹 애플리케이션 구축 방법을 학습합니다. 플랫폼 작동 방식 및 플랫폼의 생성, 구성, 조정, 보안과 App Service로 배포하는 방법을 학습합니다.
+  #### 단원
+  - Azure App Service 핵심 개념
+  - Azure App Service 웹앱 생성
+  - App Service 앱 구성 및 모니터링
+  - App Service 앱 조정
+  - Azure App Service 준비 환경
+
+
+  ### 모듈 2&#58; Azure Functions 구현
+  본 모듈에서는 Functions 앱 생성, 앱에 트리거와 입출력 통합 방법을 다룹니다.
+  #### 단원
+  - Azure Functions 개요
+  - Azure Functions 개발
+  - Durable Functions 구현
+
+
+  ### 모듈 3&#58; Blob Storage를 사용하는 솔루션 개발
+  학생들은 Azure Blob Storage 작동 방식, 핫, 콜드, 아카이브 Blob Storage 수명 주기를 통한 데이터 관리 및 Azure Blob Storage 클라이언트 라이브러리를 사용한 데이터 및 메타데이터 관리 방법을 학습합니다. 또한 수강생들은 ARM(Azure Resource Manager) 템플릿을 만드는 방법을 배웁니다.
+  #### 단원
+  - Azure Blob 저장소 핵심 개념
+  - Azure Blob Storage 수명 주기 관리
+  - Azure Blob Storage로 작업
+  - Azure 리소스 관리자 템플릿 생성
+
+
+  ### 모듈 4&#58; Cosmos DB 저장소를 사용하는 솔루션 개발
+  학생들은 Cosmos DB 구성 방식과 데이터 일관성 관리 방법을 학습합니다. 학생들은 Cosmos DB 계정 생성, Azure Portal과 .NET SDK를 함께 사용한 데이터베이스, 컨테이너 및 항목 생성 방법을 학습합니다.
+  #### 단원
+  - Azure Cosmos DB 개요
+  - Azure Cosmos DB data structure
+  - Azure Cosmos DB 리소스 및 데이터 작업
+  - ARM 템플릿 생성 및 배포
+
+
+  ### 모듈 5&#58; ARM(Azure Resource Manager) 템플릿 생성 및 배포
+  수강생들은 새로운 배포를 가속화하고 리소스 간에 일관성을 유지하는 데 사용할 수 있는 Azure Resource Manager 템플릿을 만들고 배포하는 방법을 배웁니다.
+  #### 단원
+  - ARM 템플릿 생성 및 배포
+
+
+  ### 모듈 6&#58; 사용자 인증 및 권한 부여 구현
+  학생들은 Microsoft Identity Platform v2.0을 활용한 인증과 리소스 액세스 관리 방법을 학습합니다. 또한 Microsoft Authentication Library 및 Microsoft Graph를 사용하여 사용자를 인증하고 Azure에 저장된 정보를 검색하는 방법과 공유 액세스 서명을 사용하는 시기 등에 대해서도 배우게 됩니다.
+  #### 단원
+  - Microsoft ID 플랫폼 구현
+  - Microsoft Authentication Library 구현
+  - Azure App Configuration를 사용하여 앱 설정 데이터 보호
+
+
+  ### 모듈 7&#58; 안전한 클라우드 솔루션 구현
+  본 모듈에서는 애플리케이션이 리소스 액세스 시 사용하는 정보(키, 비밀, 인증서)를 보호하는 방법을 다룹니다. 또한 응용 프로그램 구성 정보 보안에 대해서도 다룹니다.
+  #### 단원
+  - KeyVault API를 사용하여 키, 비밀 및 인증서 관리
+  - Azure 리소스용 관리되는 ID 구현
+  - Azure App Configuration를 사용하여 앱 설정 데이터 보호
+
+
+  ### 모듈 8&#58; API 관리 구현
+  학생들은 API 게시, API를 통해 공유되는 정보 관리를 위한 정책 생성 및 Azure API Management 서비스를 사용한 API 액세스 관리 방법을 학습합니다.
+  #### 단원
+  API 관리 구현
+  - API 정책 정의
+  - API 보안
+
+
+  ### 모듈 9&#58; 이벤트 기반 솔루션 개발
+  학생들은 이벤트 기반 아키텍처로 애플리케이션을 구축하는 방법을 학습합니다.
+  #### 단원
+  - Azure Event Grid 구현
+  - Azure Event Hubs 구현
+  - Azure Notification Hub 구현
+
+
+  ### 모듈 10&#58; 메시지 기반 솔루션 개발
+  학생들은 메시지 기반 아키텍처로 애플리케이션을 구축하는 방법을 학습합니다.
+  #### 단원
+  - Azure Service Bus를 사용하는 솔루션 구현
+  - Azure Queue Storage queues를 사용하는 솔루션 구현
+
+
+  ### 모듈 11&#58; Azure 솔루션 모니터링 및 최적화
+  본 모듈은 수강생들에게 원격 분석을 위한 코드를 계측하는 방법을 설명합니다.
+  #### 단원
+  - Azure Application Insights의 응용
+  - 모니터링용 앱 계측
+

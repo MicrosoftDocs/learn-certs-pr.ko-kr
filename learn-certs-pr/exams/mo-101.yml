@@ -5,15 +5,18 @@ metadata:
   description: 'MO-101: Microsoft Word Expert (Word and Word 2019)'
 uid: exam.mo-101
 displayName: MO-101
-summary: 해당 인증을 취득한 사람은 이미 약 150 시간의 제품 관련 교육 및 실무 경험을 보유하고, 업계 전문가 수준의 역량을 입증하였으며, 취업 시장에 뛰어들 준비가 되었음을 입증합니다. 본 인증의 취득자는 Word의 주요 기능을 전문가 수준에서 올바르게 적용하고 작업을 독립적으로 완료할 수 있습니다.
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  이 시험은 Word 환경을 사용자 지정하여 프로젝트 요구 사항을 충족하고 생산성을 향상시키는 기능에 대해 다룹니다. 전문가 수준의 문서 예제는 사업 계획, 연구 논문, 서적, 전문 브로셔 및 대량 편지 발송 등이 포함됩니다. 응시자는 전문가 수준에서 Word의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
 subTitle: 본 시험은 다양한 전문적 목적과 상황에 대한 전문적 문서를 작성하고 관리하는 능력을 측정합니다. 이 시험은 Word 환경을 사용자 지정하여 프로젝트 요구 사항을 충족하고 생산성을 향상시키는 기능에 대해 다룹니다. 전문가 수준의 문서 예제는 사업 계획, 연구 논문, 서적, 전문 브로셔 및 대량 편지 발송 등이 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8K
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
 levels:
 - intermediate
 skills:
@@ -31,14 +34,15 @@ relatedCertifications:
     uid: certification.mos-word-expert-2019
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

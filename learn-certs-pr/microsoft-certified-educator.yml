@@ -5,14 +5,13 @@ metadata:
   description: Microsoft Certified Educator
 uid: certification.microsoft-certified-educator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
-  MCE(Microsoft Certified Educator) 인증은 교육자가 학생들에게 풍부한 맞춤 학습 경험을 제공하는 데 필요한 글로벌 교육자로서의 기술 지식 능력을 갖추고 있는지 검증합니다.
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
+  MCE(Microsoft Certified Educator) 인증은 교육자가 학생들에게 풍부한 맞춤 학습 경험을 제공하는 데 필요한 글로벌 교육자로서의 기술 지식 능력을 갖추고 있는지 검증합니다.
   MCE 인증은 수습 교육자, 사범대학 구성원, 현직 교육자에게 적합합니다.
 
-
   Microsoft는 교육자의 엄격한 시험 준비에 도움이 되는 포괄적인 e-learning 커리큘럼 21CLD를 제공합니다.
-
 
   **참고** Microsoft Certified Educator 시험은 교사가 특정 기술 도구 사용에 능숙한지 여부와 무관하게 6가지의 콘텐츠 도메인에서 기술 도구를 적용하는 방법을 이해했는지 여부만을 평가합니다. 특정 Microsoft 상품 및 기술 교육에 관한 인증 획득에 관련된 정보는 [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx) 페이지를 참조하시기 바랍니다.
 subTitle: MCE(Microsoft Certified Educator) 인증은 교육자가 학생들에게 풍부한 맞춤 학습 경험을 제공하는 데 필요한 글로벌 교육자로서의 기술 지식 능력을 갖추고 있는지 검증합니다.
@@ -21,7 +20,7 @@ levels:
 skills:
 - 학생 협업 능력 촉진
 - 능숙한 커뮤니케이션 촉진
-- 자기 관리 촉진
+- 자체 규제 촉진
 - 실제 환경의 문제 해결 및 혁신 촉진
 - 학생의 ICT(정보 통신 도구) 사용 촉진
 - 유능한 교육자가 되기 위한 ICT 활용
@@ -30,15 +29,17 @@ roles:
 type: mce
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlT
 exams:
 - uid: exam.62-193
 resources:
 - title: ITL(혁신적인 교육 및 학습) 연구 프로젝트
   description: ITL(혁신적인 교육 및 학습) 연구 프로젝트
   href: https://education.microsoft.com/GetTrained/ITL-Research
-- title: 학습 가이드
+- title: 학습 안내서
   description: 시험 준비용 자료 검색
-  href: https://aka.ms/MCEStudyGuide
-- title: 재응시하기
+  href: http://aka.ms/MCEStudyGuide
+- title: Exam Replay
   description: Teach the Future Now 캠페인용 디지털 키트(포스터, 데이터 시트 및 MCE 시험 범위)
-  href: https://aka.ms/MCEAssets
+  href: http://aka.ms/MCEAssets
+

@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: PowerPoint 2013
+metadata:
+  title: 'Exam 77-422: PowerPoint 2013'
+  description: 'Exam 77-422: PowerPoint 2013'
+uid: exam.77-422
+displayName: 77-422
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  MOS 2013 Study Guide for Microsoft PowerPoint Published&#58; 2013년 10월
+
+  PowerPoint를 학습하고 전문성을 입증하십시오. 이 올인원 학습 안내서를 통해 2013 PowerPoint Microsoft Office Specialist (MOS) 시험을 연습하고 준비하십시오. 이해하기 쉬운 순서 및 일러스트와 함께 목표별로 시험 범위 대비가 가능합니다. 또한 실습 과제를 통해 학습한 내용을 적용해볼 수 있습니다. 안내서에는 다운로드할 수 있는 연습 파일이 포함되어 있습니다.
+
+  Microsoft Press Store에서이 서적을 구입할 수 있습니다
+
+  이 시험은 Office를 사용하여 안전하고 유연한 애플리케이션을 만드는 IT 전문가 대상 응시자로 하는 시험입니다.
+subTitle: '이 시험은 Office를 사용하여 안전하고 유연한 애플리케이션을 만드는 IT 전문가 대상 응시자로 하는 시험입니다.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- 프레젠테이션 만들기 및 관리
+- 도형 및 슬라이드 삽입 및 서식 지정
+- 슬라이드 내용 생성
+- 전환 및 애니메이션 적용
+- 다수 프레젠테이션 관리
+roles:
+- business-user
+products:
+- office-powerpoint
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-certification-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

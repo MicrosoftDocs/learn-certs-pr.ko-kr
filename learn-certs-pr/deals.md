@@ -1,14 +1,15 @@
 ---
 title: Offers | Microsoft Docs
-description: 제안 
+description: Offers 
 documentationcenter: NA 
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/22/2019
 ms.author: micsullivan
 ---
-# 제안
+# Offers
 
 ## Exam Replay
 
@@ -32,19 +33,20 @@ ms.author: micsullivan
                 <img src="images/exam-replay-with-practice-test-thumbnail.png">
             </td>
             <td>
-               <p><strong>Microsoft 시험 연습 시험으로 재응시</strong><br/>에는 다음을 포함합니다: Microsoft Certified Professional (MCP) 인증 시험 쿠폰 1개 + 필요한 경우 재시험 1번 + Microsoft 공식 연습 시험.</p>
+               <p><strong>Microsoft Exam Replay with Practice Test</strong><br/>Includes: Microsoft Certified Professional (MCP) 인증 시험 쿠폰 1개 + 필요한 경우 재시험 1번 + Microsoft 공식 연습 시험.</p>
                <p><a href=”https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink”><strong>지금 구매하기</strong></a></p>
             </td>
         </tr>
     </table>
 </div>
 
+
 ## 학생 할인으로 비용 절약
 시험 등록 전 학생 신분을 증명하시면 Microsoft Certified Professional(MCP) 시험을 학생 할인가로 응시할 수 있습니다. 귀하께서 소속된 교육 기관이 Microsoft Imagine Academy 프로그램의 구성원일 경우 추가적인 할인 혜택도 받으실 수 있습니다. *참고 인도 또는 중국에서는 MCP 시험에 대한 할인 혜택을 이용할 수 없다는 점을 참고하십시오.*
 
 [**자세히 알아보기**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-asked-questions"></a> 자주 하는 질문
+## 자주 하는 질문
 
 **질문. Exam Replay란 무엇입니까?**
 
@@ -68,11 +70,11 @@ ms.author: micsullivan
 
 **질문. Exam Replay 쿠폰으로 온라인 감독 시험에 응시할 수 있습니까?**
 
-**답변.** 예, 온라인 감독 시험에 응시 가능한 경우 Exam Replay 쿠폰으로 응시할 수 있습니다. Microsoft 인증 [온라인 시험에 대해 자세히 알아보기](https://www.microsoft.com/learning/online-proctored-exams.aspx).
+**답변.** 예, 온라인 감독 시험에 응시 가능한 경우 Exam Replay 쿠폰으로 응시할 수 있습니다. [온라인 시험에 대해 자세히 알아보기](/learn/certifications/online-exams) for Microsoft certification.
 
 **질문. 첫 시험과 재응시를 동시에 예약할 수 있습니까?**
 
-**답변.** 아니요, 첫 시험에 응시하고 불합격 결과가 나오기 전까지 재시험은 예약하실 수 없습니다. 자세한 내용은 [Microsoft 인증 Exam Replay 정책](https://www.microsoft.com/learning/certification-exam-policies.aspx)을 참고하시기 바랍니다.
+**답변.** 아니요, 첫 시험에 응시하고 불합격 결과가 나오기 전까지 재시험은 예약하실 수 없습니다. 자세한 내용은 [Microsoft Certification exam retake 정책](/learn/certifications/certification-exam-policies#exam-retake-policy).
 
 **질문. 연습 시험은 어떻게 활성화하며 얼마나 오랫동안 유효합니까?**
 
@@ -85,4 +87,6 @@ ms.author: micsullivan
 **질문. Exam Replay 또는 연습 시험을 통한 Exam Replay를 구매 또는 교환하는 데 문제가 있는 경우 누구에게 연락해야 합니까?**
 
 **답변.** Exam Replay 또는 연습 시험을 통한 Exam Replay 프로모션에 문제가 있는 경우 [Pearson VUE 팀에 이메일](mailto:mindhub@pearson.com)을 보내세요.
+
+
 

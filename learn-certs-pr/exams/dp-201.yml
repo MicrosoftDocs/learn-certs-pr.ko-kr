@@ -5,7 +5,14 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div>\r\n<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>  \r\n<div style='font-weight&#58; bold;'>본 시험 내용은 2020년 3월 26일 에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>\r\n</div>\r\n\r\n이 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 설계하기 위한 데이터 요구 사항을 식별하고 충족하는 마이크로소프트 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.\r\n\r\nAzure 데이터 엔지니어는 관계형 및 비관계형 데이터 저장소를 사용하는 Azure 데이터 저장소 솔루션 설계, 일괄 작업 및 실시간 데이터 처리 솔루션, 데이터 보안 및 컴플라이언스 솔루션을 포함하는 데이터 관련 과제를 담당합니다.\r\n\r\n본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 디자인해야 합니다&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소."
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>  
+    
+  이 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 설계하기 위한 데이터 요구 사항을 식별하고 충족하는 마이크로소프트 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
+
+  Azure 데이터 엔지니어는 관계형 및 비관계형 데이터 저장소를 사용하는 Azure 데이터 저장소 솔루션 설계, 일괄 작업 및 실시간 데이터 처리 솔루션, 데이터 보안 및 컴플라이언스 솔루션을 포함하는 데이터 관련 과제를 담당합니다.
+
+  본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 디자인해야 합니다&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소.
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: Azure 데이터 저장소 솔루션 설계; 데이터 처리 솔루션 설계; 데이터 보안 및 규정 준수를 위한 설계.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험 내용은 2020년 3월 26일 에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.
 - '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - Azure 데이터 저장소 솔루션 설계 (40-45%)
 - 데이터 처리 솔루션 설계 (25-30%)
@@ -60,17 +66,17 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

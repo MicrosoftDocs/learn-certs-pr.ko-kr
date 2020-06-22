@@ -2,11 +2,20 @@
 title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Security Engineer Associate'
-  description: Azure Security Engineer는 엔드투엔드 인프라의 일부로서 보안 제어 및 위협 보호 환경을 구현하고, ID 및 액세스를 관리하며, cloud 및 하이브리드 환경에서 데이터, 애플리케이션, 네트워크를 구현합니다.
+  description: 'Azure Security Engineer는 엔드투엔드 인프라의 일부로서 보안 제어 및 위협 보호 환경을 구현하고, ID 및 액세스를 관리하며, 클라우드 및 하이브리드 환경에서 데이터, 애플리케이션, 네트워크를 구현합니다.'
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure Security Engineer는 엔드투엔드 인프라의 일부로서 보안 제어 및 위협 보호 환경을 구현하고, ID 및 액세스를 관리하며, cloud 및 하이브리드 환경에서 데이터, 애플리케이션, 네트워크를 구현합니다.
-subTitle: Azure Security Engineer는 엔드투엔드 인프라의 일부로서 보안 제어 및 위협 보호 환경을 구현하고, ID 및 액세스를 관리하며, cloud 및 하이브리드 환경에서 데이터, 애플리케이션, 네트워크를 구현합니다.
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
+  Azure Security Engineer 인증을 위한 응시자는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 보안 제어 및 위협 보호, ID 및 액세스 관리, 데이터, 애플리케이션 및 네트워크 보호 등을 구현하는 실무 전문 지식을 갖추어야 합니다.
+
+  본 역할은 다양한 보안 도구을 사용하여 보안 상태를 유지하고, 취약점을 식별하고, 해결하며, 위협 보호를 구현하고, 보안 사고 에스컬레이션에 대응하는 업무를 담당합니다.
+
+  Azure Security Engineers는 종종 엔드투엔드 인프라의 일부로 클라우드 기반 관리 및 보안 또는 하이브리드 환경을 전담하는 대규모 팀의 일원으로 활동합니다.
+
+  본 인증의 응시자는 스크립팅 및 자동화, 네트워킹, 가상화 및 클라우드 N-계층 아키텍처에 대한 깊은 이해, Azure용 클라우드 기능, 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 완전히 친숙해야 합니다.
+subTitle: Azure Security Engineer는 엔드투엔드 인프라의 일부로서 보안 제어 및 위협 보호 환경을 구현하고, ID 및 액세스를 관리하며, 클라우드 및 하이브리드 환경에서 데이터, 애플리케이션, 네트워크를 구현합니다.
 levels:
 - intermediate
 skills:
@@ -37,18 +46,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-500
 resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Azure Administration for AWS SysOps
+metadata:
+  title: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+  description: 'Course AZ-010T00-A: Azure Administration for AWS SysOps'
+uid: course.az-010t00
+courseNumber: 'AZ-010T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+exams:
+- uid: exam.az-103
+- uid: exam.az-104
+summary: |-
+  2일간 진행하는 본 과정은 AWS와 Azure의 차이 및 Azure 관리 방법을 알고자 하는 AWS Sysops 관리자를 대상으로 합니다. 워크샵의 주요 주제는 Azure Administration, Azure Networking, Azure Compute, Azure Storage 및 Azure Governance입니다. 본 워크샵에서는 강의와 실제 실습 및 토론/검토를 결합하여 진행합니다. 워크숍 기간에 수강생들은 본 과정에서 논의된 주요 기능을 보여주는 엔드투엔드 아키텍처를 구성하게 됩니다.
+
+  #### 대상 그룹 프로필
+  본 과정의 대상 그룹은 AWS Sysops Administrator Associate 또는 이와 동등한 수준의 적격자입니다. 이런 적격자는 AWS 구축, 관리 및 운영 분야에서 1~2년 정도의 경력을 가지고 있어야 합니다. 본 과정을 수강하는 수강생들은 AWS와 Azure의 차이 및 Azure 관리 방법을 배우는데 관심이 있습니다. 수강생들은 또한 AZ-103 Microsoft Azure Administrator 인증 시험 또는 AZ-900 Azure Fundamentals 시험을 치르는 데 관심이 있을 수 있습니다.
+prerequisitesSection: |-
+  성공적인 AWS Sysops는 운영 체제, 가상화, 클라우드 인프라, 스토리지 구조, ID 솔루션 및 네트워킹에 대한 경험을 바탕으로 본 과정을 시작합니다. 특히, 수강생들은 다음을 소유해야 합니다&#58;
+  - 도움말 페이지를 사용하여 적절한 매개 변수 및 명령 구조의 결정 등 CLI 명령을 구성하는 방법에 대한 실무 지식.
+  - 가상 네트워크 개념, DNS(Domain Name System), VPN(가상 사설망), 방화벽, 게이트웨이, 암호화 기술 이해.
+  - 가상 머신 및 그의 사용 방법, CPU 성능 및 디스크와 같은 구성 옵션 이해.
+  - 스토리지 계정, BLOB, 파일 공유, 디스크 유형 등의 가상 스토리지 개념 이해.
+  - 역할 기반 액세스 제어, ID 관리, ID 보호 등 거버넌스 개념 이해.
+outlineSection: |-
+  ### 모듈 1&#58; Azure 관리자
+  본 모듈에서는 Azure를 관리하는 데 필요한 도구와 원리적 개념에 대해 배우게 됩니다. 주제에는 다음이 포함됩니다. Resource Manager, Resource Groups, Azure Portal, Azure CLI, Azure Templates, Cloud Shell, Azure Marketplace, 및 Azure PowerShell.
+
+
+  ### 모듈 2&#58; Azure 네트워킹
+  본 모듈에서는 Azure 네트워킹 기능에 대해 설명합니다. 주제에는 다음이 포함됩니다. Azure 지역, 가상 네트워크 및 서브넷, IP 주소 지정, 네트워크 보안 그룹, 가상 네트워크 피어링, VNet사이 연결, ExpressRoute, 부하 분산 장치 및 Network Watcher.
+
+
+  ### 모듈 3&#58; Azure Compute
+  본 모듈에서는 Azure 가상 머신을 구성하고 모니터링하는 방법에 대해 알아봅니다. 주제에는 다음이 포함됩니다. Azure 가상 머신, 가상 머신 생성, 가상 머신 크기, 가상 머신 디스크, 가용성 영역, 가용성 집합, Windows VM 연결, Linux VM 연결, Azure 모니터 및 Azure Alert.
+
+
+  ### 모듈 4&#58; Azure Storage
+  본 모듈에서는 Azure 스토리지 기능과 구현에 대해 설명합니다. 주제에는 다음이 포함됩니다. 스토리지 계정, BLOB 스토리지, BLOB 성능 계층, 파일 공유, 파일 동기화, Data Box, 컨텐츠 배달 네트워크, 공유 액세스 서명 및 서비스 엔드포인트.
+
+
+  ### 모듈 5&#58; Azure Identity
+  본 모듈에서는 Azure ID 솔루션에 대해 설명합니다. 주제에는 다음이 포함됩니다. Azure 도메인, 역할 기반 액세스 제어, Azure Active Directory, 다단계 인증, Azure AD ID 보호 및 Azure Policy.
+

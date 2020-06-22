@@ -1,63 +1,72 @@
 ### YamlMime:Examination
 title: Planning and Configuring a Messaging Platform
 metadata:
-  title: '시험 MS-200: Planning and Configuring a Messaging Platform'
-  description: '시험 MS-200: Planning and Configuring a Messaging Platform'
+  title: 'Exam MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Exam MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: >-
-  본 시험은 온-프레미스 및 클라우드 엔터프라이즈 환경에서 메일, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 메시징 관리자를 대상 응시자로 합니다.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험의 새로운 버전인 <a href="/learn/certifications/exams/az-203">MS-203</a>는 2020년 6월 2일 화요일 일일부터 이용 본 시험은 2020년 8월 31일 월요일 중단 전까지 응시할 수 있습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다.<br/><br/></div>
+  </div>
 
+  이 시험은 온-프레미스 및 cloud 엔터프라이즈 환경에서 메일, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 Messaging Administrator를 대상 응시자로 합니다.
 
-  메시징 관리자는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 재해 복구, 고가용성, 클라이언트 액세스를 관리할 수 있어야 합니다.
+  Messaging Administrator는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 재해 복구, 고가용성, 클라이언트 액세스를 관리할 수 있어야 합니다.
 
-
-  메시징 관리자는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 요즘 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 토폴로지를 구현할 수 있어야 합니다.
-
+  Messaging Administrator는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 요즘 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 토폴로지를 구현할 수 있어야 합니다.
 
   메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
-subTitle: 본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 최신 메시징 인프라 관리, 메일 흐름 토폴로지 관리, 수신자 및 장치 관리.
+
+  <div style='font-weight&#58; bold;'><br/>참고&#58; 참고&#58; 본 시험에 통과하면 다음 인증을 획득할 수 있습니다&#58; <a href="/learn/certifications/m365-messaging-administrator">Microsoft 365 Certified&#58; Messaging Administrator Associate</a>.</div>
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. 최신 메시징 인프라 관리, 메일 흐름 토폴로지 관리, 수신자 및 장치 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-200&examname=시험%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
 - 최신 메시징 인프라 관리 (45-50%)
 - 메일 흐름 토폴로지 관리 (35-40%)
 - 수신자 및 장치 관리 (15-20%)
+retirementDate: 08/31/2020
 roles:
 - administrator
-exams:
-- uid: exam.ms-201
 products:
 - m365
+exams:
+- uid: exam.ms-201
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02
 - uid: course.ms-200t03
 relatedCertifications:
 - related:
-    uid: certification.m365-messaging-administrator
+    uid: none
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

@@ -5,23 +5,35 @@ metadata:
   description: 'MO-200: Microsoft Excel (Excel and Excel 2019)'
 uid: exam.mo-200
 displayName: MO-200
-summary: 이 인증을 획득한 개인은 약 150시간의 수업 및 제품 사용 경험을 가지고 있으며, 업계 관련 수준에서 능력이 입증되었으며, 고용 시장에 진출할 준비가 되어 있습니다. 그들은 Excel의 주요 기능들의 정확한 적용을 입증할 수 있고 독립적으로 임무를 완성할 수 있습니다.
-subTitle: 이 시험은 워크시트와 워크북의 만들기 및 관리, 셀과 범위 만들기, 표 만들기, 공식과 함수 적용, 도표 및 객체 만들기의 기본 능숙도를 측정합니다. 시험은 여러 장의 시트로 워크북을 만들고 편집할 수 있는 능력을 다루고 데이터를 시각적으로 표현하기 위해 그래픽 요소를 사용합니다. 워크북 예로는 전문가 수준의 예산, 재무제표, 팀 실적 도표, 영업 송장 및 데이터 입력 로그가 있습니다.
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  시험은 여러 장의 시트로 워크북을 만들고 편집할 수 있는 능력을 다루고 데이터를 시각적으로 표현하기 위해 그래픽 요소를 사용합니다. 통합 문서 예제에는 전문가 수준의 예산, 재무제표, 팀 성과 차트, 매매 송장 및 데이터 입력 로그가 포함됩니다. 응시자는 Excel의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
+subTitle: 이 시험은 워크시트와 워크북의 만들기 및 관리, 셀과 범위 만들기, 표 만들기, 공식과 함수 적용, 도표 및 객체 만들기의 기본 능숙도를 측정합니다. 시험은 여러 장의 시트로 워크북을 만들고 편집할 수 있는 능력을 다루고 데이터를 시각적으로 표현하기 위해 그래픽 요소를 사용합니다. 통합 문서 예제에는 전문가 수준의 예산, 재무제표, 팀 성과 차트, 매매 송장 및 데이터 입력 로그가 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WXlg
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- nl
+- fr
+- de
+- id-id
+- ko
+- pt-br
+- es
+- it
 levels:
 - intermediate
 skills:
-- 워크시트 및 워크북 관리 (10-15%)
-- 데이터 셀 및 범위 관리 (20-25%)
-- 표 및 표 데이터 관리 (15-20%)
-- 공식 및 함수를 사용하여 작업 수행 (20-25%)
-- 도표 관리 (20-25%)
+- 워크시트 및 워크북 관리(10-15%)
+- 데이터 셀 및 범위 관리(20-25%)
+- 표 및 표 데이터 관리(15-20%)
+- 수식 및 함수를 사용하여 작업 수행(20-25%)
+- 차트 관리(20-25%)
 roles:
 - developer
 products:
@@ -32,14 +44,15 @@ relatedCertifications:
     uid: certification.mos-excel-2019
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

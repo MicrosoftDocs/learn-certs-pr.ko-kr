@@ -2,12 +2,14 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: 'Azure AI 기술자는 인지 서비스, 기계 학습 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, 컴퓨터 비전, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.'
+  description: 'Azure AI 기술자는 Cognitive Services, Machine Learning 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, Computer Vision, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure AI 기술자는 인지 서비스, 기계 학습 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, 컴퓨터 비전, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.
-subTitle: Azure AI 기술자는 인지 서비스, 기계 학습 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, 컴퓨터 비전, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
+  Azure AI 기술자는 Cognitive Services, Machine Learning 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, Computer Vision, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.
+subTitle: Azure AI 기술자는 Cognitive Services, Machine Learning 및 지식 마이닝을 사용하여 자연 언어 처리, 음성, Computer Vision, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.
 levels:
 - intermediate
 skills:
@@ -36,14 +38,20 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 인증으로의 여정
+  description: Azure AI Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
@@ -51,3 +59,4 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

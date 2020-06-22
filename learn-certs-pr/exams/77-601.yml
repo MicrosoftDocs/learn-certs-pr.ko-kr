@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Word 2007'
+metadata:
+  title: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+  description: 'Exam 77-601: MOS: Using Microsoft Office Word 2007'
+uid: exam.77-601
+displayName: 77-601
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  본 시험의 응시자는 6개월에서 1년 정도 Microsoft Office Word 2007을 사용하여 비즈니스 결과물을 작성한 실무 경험이 있어야 하며 이전 버전의 Office Word를 사용해 본 경험이 있어야 합니다. 이러한 응시자는 제공된 정보에 적합한 서식과 시각적 내용을 사용하여 문서를 작성, 사용자 지정 및 구성에 있어 뛰어납니다. 응시자들은 또한 콘텐츠의 검토, 공유 및 보안에 있어 뛰어납니다.
+subTitle: 본 시험의 응시자는 6개월에서 1년 정도 Microsoft Office Word 2007을 사용하여 비즈니스 결과물을 작성한 실무 경험이 있어야 하며 이전 버전의 Office Word를 사용해 본 경험이 있어야 합니다. 이러한 응시자는 제공된 정보에 적합한 서식과 시각적 내용을 사용하여 문서를 작성, 사용자 지정 및 구성에 있어 뛰어납니다 응시자들은 또한 콘텐츠의 검토, 공유 및 보안에 있어 뛰어납니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57w
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-601&examname=MOS:%20Using%20Microsoft%20Office%20Word%202007&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-601
+locales:
+- en
+- ru
+levels:
+- beginner
+skills:
+- 문서 작성 및 사용자 지정(25–30%)
+- 내용 서식 지정(25–30%)
+- 시각적 콘텐츠 관련 작업(10–15%)
+- 콘텐츠 구성(15-20%)
+- 문서 검토(10-15%)
+- 콘텐츠 공유 및 보안(5–10%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

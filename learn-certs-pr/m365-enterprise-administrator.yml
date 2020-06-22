@@ -2,13 +2,15 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리하는 역할을 수행합니다.
+  description: 'Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리하는 역할을 수행합니다.'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
   Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
-  
-  <div style='color&#58; red;'><br/>MCSE Productivity Solutions Expert 인증이 2020년 6월 30일 만료됩니다. 따라서 MCSE 생산성 솔루션 전문가 인증은 2021 년 6 월 30 일 이후에 Microsoft 365 Certified&#58; Enterprise Administrator Expert 인증을위한 필수 구성 요소로 인정되지 않습니다. (MCSE 만료 후 1년).</div>
+
+  <div><br/><strong>MCSE Productivity Solutions Expert 인증은 2021년 1월 31일에 중지됩니다. 따라서 MCSE Productivity Solutions Expert 인증은 MCSE 만료 1년 후인 2022년 1월 31일 이후 Microsoft 365 Certified&#58; Enterprise Administrator Expert 인증의 전제 조건 옵션으로 인정되지 않습니다.</strong></div>
 subTitle: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 levels:
 - advanced
@@ -27,12 +29,8 @@ type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -57,8 +55,8 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
@@ -66,3 +64,4 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

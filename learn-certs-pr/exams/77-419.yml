@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft SharePoint 2013
+metadata:
+  title: 'Exam 77-419: Microsoft SharePoint 2013'
+  description: 'Exam 77-419: Microsoft SharePoint 2013'
+uid: exam.77-419
+displayName: 77-419
+summary: |-
+  <div><div style='color&#58; red;'>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>본 인증은 2020년 6월 30일 화요일에 중단됩니다. 대체 시험이있을 수 있습니다. 자세한 내용을 보려면 저희 블로그를 방문하세요&#58; <a href='https://www.microsoft.com/en-us/learning/community.aspx'>https://www.microsoft.com/en-us/learning/community.aspx</a> 또한, 시험 중단에 관한 게시물을 검토하세요. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다.<br/><br/></strong></div>
+  </div>
+
+  Microsoft SharePoint 2013 시험 응시자는 SharePoint 환경과 모든 사이트 수준 작업을 수행 할 수있는 능력을 제대로 이해하고 있어야합니다. SharePoint 2013의 기본 사이트, 라이브러리 및 목록 기능을 올바르게 적용하고 시연해야합니다. 응시자는 SharePoint 사이트를 최적화하고 사용자 정의하여 구조를 제공하고 문제를 해결하며 협업을 촉진하고 생산성을 향상시킬 수 있어야합니다. 응용 프로그램의 예로는 목록 권한 관리, 빠른 실행에 컨텐츠 추가, 팀 사이트 작성 및 라이브러리보기 수정이 있습니다. 후보 역할에는 기술 지원 직원, 프로젝트 관리자, 팀장, 부서장 등이 포함될 수 있습니다.
+subTitle: Microsoft SharePoint 2013 시험 응시자는 SharePoint 환경과 모든 사이트 수준 작업을 수행 할 수있는 능력을 제대로 이해하고 있어야합니다. SharePoint 2013의 기본 사이트, 라이브러리 및 목록 기능을 올바르게 적용하고 시연해야합니다. 응시자는 SharePoint 사이트를 최적화하고 사용자 정의하여 구조를 제공하고 문제를 해결하며 협업을 촉진하고 생산성을 향상시킬 수 있어야합니다. 응용 프로그램의 예로는 목록 권한 관리, 빠른 실행에 컨텐츠 추가, 팀 사이트 작성 및 라이브러리보기 수정이 있습니다. 후보 역할에는 기술 지원 직원, 프로젝트 관리자, 팀장, 부서장 등이 포함될 수 있습니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
+locales:
+- en
+levels:
+- beginner
+skills:
+- 콘텐츠 생성 및 서식 지정 (25 -30%)
+- SharePoint 사이트 관리 (30 -35%)
+- 사용자 커뮤니티에 참여 (15 -20%)
+- 사이트 검색 결과 구성 및 사용 (15 -20%)
+roles:
+- business-user
+products:
+- office-sp
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+
